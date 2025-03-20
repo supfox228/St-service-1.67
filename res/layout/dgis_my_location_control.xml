@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageButton android:id="@id/dgis_my_location" android:background="@drawable/dgis_round_button_background" android:layout_width="44.0dip" android:layout_height="44.0dip" android:layout_margin="4.0dip" android:src="@drawable/dgis_my_location" android:elevation="2.0dip" android:backgroundTint="@color/dgis_map_control_background" app:tint="@color/dgis_map_control_foreground"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

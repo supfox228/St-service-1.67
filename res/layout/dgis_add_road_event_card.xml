@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/dgis_card" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_horizontal" android:layout_width="40.0dip" android:layout_height="12.0dip" android:layout_marginTop="4.0dip" android:src="@drawable/dgis_card_handle" />
+    <HorizontalScrollView android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_marginTop="6.0dip" android:layout_marginBottom="18.0dip" android:fillViewport="true">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:id="@id/dgisAddRoadEventCardEventTypesContainer" android:layout_width="wrap_content" android:layout_height="fill_parent" android:divider="@drawable/dgis_empty_horizontal_divider_16dp" android:showDividers="beginning|end|middle" />
+    </HorizontalScrollView>
+    <View android:background="@color/dgis_card_overlay" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <TextView android:textSize="20.0sp" android:textStyle="bold" android:textColor="@color/dgis_card_text" android:layout_gravity="center_horizontal" android:id="@id/dgisAddRoadEventCardEventTypeText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:maxLines="1" android:includeFontPadding="false" />
+    <TextView android:textSize="14.0sp" android:textColor="@color/dgis_card_text_dimmed" android:layout_gravity="center_horizontal" android:id="@id/dgisAddRoadEventCardLaneText" android:layout_width="wrap_content" android:layout_height="18.0dip" android:layout_marginTop="4.0dip" android:text="@string/dgis_select_road_event_lane" android:maxLines="1" android:includeFontPadding="false" />
+    <LinearLayout android:gravity="center_horizontal" android:id="@id/dgisAddRoadEventCardLanesContainer" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:divider="@drawable/dgis_route_event_action_divider" android:showDividers="beginning|end|middle">
+        <include android:id="@id/dgisAddRoadEventCardEventLane0" layout="@layout/dgis_add_road_event_lane" />
+        <include android:id="@id/dgisAddRoadEventCardEventLane1" layout="@layout/dgis_add_road_event_lane" />
+        <include android:id="@id/dgisAddRoadEventCardEventLane2" layout="@layout/dgis_add_road_event_lane" />
+    </LinearLayout>
+    <EditText android:textSize="14.0sp" android:textColor="@color/dgis_card_text" android:textColorHint="@color/dgis_card_text_dimmed" android:id="@id/dgisAddRoadEventCardDescription" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_marginBottom="18.0dip" android:hint="@string/dgis_road_event_comment" android:singleLine="true" android:includeFontPadding="false" android:inputType="text" android:backgroundTint="@color/dgis_edit_text_line" android:layout_marginHorizontal="24.0dip" android:importantForAutofill="no" />
+    <View android:id="@id/dgisAddRoadEventCardSpacer" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="76.0dip" />
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <plurals name="feature_battery_inventory_replenishment_batteries_total">
+    <item quantity="zero">"%d батареяҳо"</item>
+    <item quantity="one">"%d батарея"</item>
+    <item quantity="two">"%d батареяҳо"</item>
+    <item quantity="few">"%d батареяҳо"</item>
+    <item quantity="many">"%d батареяҳо"</item>
+    <item quantity="other">"%d батареяҳо"</item>
+  </plurals>
+</resources>

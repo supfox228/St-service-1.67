@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple">#692DEC</color>
+    <color name="filters_map_rent_zone">#23705E</color>
+    <color name="map_restricted_zone">#D42145</color>
+    <color name="tech_station_primary_color">#1B47D7</color>
+    <color name="tech_station_secondary_color">#28768A</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purpleNight">#6C40D5</color>
+    <color name="monochromeBlack">1F1433</color>
+    <color name="secondaryCrimson">#F54966</color>
+    <color name="primaryInverse">#575F6E</color>
+    <color name="colorPrimary">#644BA3</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="purple_500">0xFF6200EE</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#1F2631</color>
+    <color name="design_black">#181D24</color>
+    <color name="colorPrimaryDark">#38387B</color>
+    <color name="map_track_past_polyline_color">#8E969E</color>
+</resources>

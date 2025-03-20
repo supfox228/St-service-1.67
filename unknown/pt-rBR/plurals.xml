@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <plurals name="feature_battery_inventory_replenishment_batteries_total">
+    <item quantity="one">"%d bateria"</item>
+    <item quantity="other">"%d baterias"</item>
+  </plurals>
+  <plurals name="feature_battery_maps_tasks_count">
+    <item quantity="one">"%d tarefa"</item>
+    <item quantity="other">"%d tarefas"</item>
+  </plurals>
+  <plurals name="feature_create_task_filter_main_plurals_tech_zone">
+    <item quantity="one">"%1$d zona ·"</item>
+    <item quantity="other">"%1$d zonas ·"</item>
+  </plurals>
+  <plurals name="feature_home_period_calendar_shifts">
+    <item quantity="one">"%d turno"</item>
+    <item quantity="other">"%d turnos"</item>
+  </plurals>
+  <plurals name="feature_report_history_header_total">
+    <item quantity="one">"Total %d shift"</item>
+    <item quantity="other">"Total %d shifts"</item>
+  </plurals>
+  <plurals name="feature_vehicle_days">
+    <item quantity="one">"%d dia"</item>
+    <item quantity="other">"%d dias"</item>
+  </plurals>
+  <plurals name="feature_vehicle_hours">
+    <item quantity="one">"%d hora"</item>
+    <item quantity="other">"%d horas"</item>
+  </plurals>
+  <plurals name="feature_vehicle_minutes">
+    <item quantity="one">"%d minuto"</item>
+    <item quantity="other">"%d minutos"</item>
+  </plurals>
+  <plurals name="feature_vehicle_seconds">
+    <item quantity="one">"%d segundo"</item>
+    <item quantity="other">"%d segundos"</item>
+  </plurals>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <plurals name="feature_battery_inventory_replenishment_batteries_total">
+    <item quantity="one">"%d batareya"</item>
+    <item quantity="other">"%d batareyalar"</item>
+  </plurals>
+  <plurals name="feature_battery_maps_cluster_tasks_count">
+    <item quantity="one">"Cəmi%d vəzifə"</item>
+    <item quantity="other">"Cəmi%d tapşırıqlar"</item>
+  </plurals>
+  <plurals name="feature_battery_maps_tasks_count">
+    <item quantity="one">"%dvəzifə"</item>
+    <item quantity="other">"%dtapşırıqlar"</item>
+  </plurals>
+  <plurals name="feature_create_task_filter_main_plurals_tech_zone">
+    <item quantity="one">"%1$dzona ·"</item>
+    <item quantity="other">"%1$dzonalar ·"</item>
+  </plurals>
+  <plurals name="feature_home_period_calendar_shifts">
+    <item quantity="one">"%dyerdəyişmə"</item>
+    <item quantity="other">"%dnövbələr"</item>
+  </plurals>
+  <plurals name="feature_logistics_management_filters_button_default">
+    <item quantity="one">"Göstər%d vəzifə"</item>
+    <item quantity="other">"Göstər%d tapşırıqlar"</item>
+  </plurals>
+  <plurals name="feature_my_balance_replacements">
+    <item quantity="one">"%dəvəz"</item>
+    <item quantity="other">"%dəvəzedicilər"</item>
+  </plurals>
+  <plurals name="feature_report_history_header_total">
+    <item quantity="one">"Cəmi%d yerdəyişmə"</item>
+    <item quantity="other">"Cəmi%d növbələr"</item>
+  </plurals>
+  <plurals name="feature_vehicle_days">
+    <item quantity="one">"%dgün"</item>
+    <item quantity="other">"%dgünlər"</item>
+  </plurals>
+  <plurals name="feature_vehicle_hours">
+    <item quantity="one">"%dsaat"</item>
+    <item quantity="other">"%dsaat"</item>
+  </plurals>
+  <plurals name="feature_vehicle_minutes">
+    <item quantity="one">"%ddəqiqə"</item>
+    <item quantity="other">"%ddəqiqə"</item>
+  </plurals>
+  <plurals name="feature_vehicle_seconds">
+    <item quantity="one">"%dikinci"</item>
+    <item quantity="other">"%dsaniyə"</item>
+  </plurals>
+</resources>

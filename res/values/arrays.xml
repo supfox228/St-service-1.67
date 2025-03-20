@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="libverify_block_notification_names">
+        <item>@string/block_for_one_day_text</item>
+        <item>@string/block_for_one_hour_text</item>
+        <item>@string/block_for_one_minute_text</item>
+    </string-array>
+    <string-array name="libverify_block_notification_values">
+        <item>86400</item>
+        <item>3600</item>
+        <item>60</item>
+    </string-array>
+    <array name="preloaded_fonts">
+        <item>@font/roboto_medium</item>
+    </array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="56.0dip" app:background="@color/dgis_card_action_button_background"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/dgisRoadEventActionIcon" android:visibility="visible" android:layout_width="28.0dip" android:layout_height="28.0dip" app:tint="@color/dgis_card_icon" />
+    <TextView android:textSize="12.0sp" android:textColor="@color/dgis_card_text" android:id="@id/dgisRoadEventActionName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" />
+    <TextView android:textSize="12.0sp" android:textColor="@color/dgis_card_text_dimmed" android:gravity="center" android:id="@id/dgisRoadEventActionCount" android:background="@drawable/dgis_route_event_action_count_background" android:layout_width="wrap_content" android:layout_height="24.0dip" android:layout_marginLeft="8.0dip" android:minWidth="24.0dip" android:maxLines="1" android:includeFontPadding="false" android:backgroundTint="@color/dgis_card_overlay" android:paddingHorizontal="6.0dip" />
+</LinearLayout>

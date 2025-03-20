@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="?dgis_searchSecondaryBackgroundColor" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:paddingTop="16.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="16.0dip">
+        <ru.dgis.sdk.directory.SearchInputView android:id="@id/dgis_search_input_view" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" android:layout_marginEnd="16.0dip" />
+        <ImageButton android:id="@id/dgis_search_close_button" android:background="@drawable/dgis_background_rounded_8dp" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/dgis_search_cancel_ic" android:layout_weight="0.0" android:contentDescription="@string/dgis_close_search" android:backgroundTint="?dgis_searchPrimaryBackgroundColor" android:paddingHorizontal="8.0dip" android:paddingVertical="8.0dip" app:tint="?dgis_searchInputActiveTextColor" />
+    </LinearLayout>
+    <androidx.recyclerview.widget.RecyclerView android:id="@id/dgis_search_results_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:backgroundTint="?dgis_searchSecondaryBackgroundColor" />
+    <com.google.android.material.progressindicator.CircularProgressIndicator android:layout_gravity="center_horizontal" android:id="@id/dgis_search_loading_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true" android:elevation="4.0dip" android:layout_marginVertical="8.0dip" app:indicatorColor="?dgis_searchIconTint" app:indicatorSize="24.0dip" app:trackThickness="3.0dip" />
+</LinearLayout>

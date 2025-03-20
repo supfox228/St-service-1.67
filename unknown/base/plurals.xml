@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="feature_battery_maps_tasks_count">
+        <item quantity="zero">%d tasks</item>
+        <item quantity="one">%d task</item>
+        <item quantity="two">%d tasks</item>
+        <item quantity="few">%d tasks</item>
+        <item quantity="many">%d tasks</item>
+        <item quantity="other">%d tasks</item>
+    </plurals>
+    <plurals name="feature_create_task_filter_main_plurals_tech_zone">
+        <item quantity="zero">Not selected</item>
+        <item quantity="one">%1$d zone ·\u0020</item>
+        <item quantity="two">%1$d zones ·\u0020</item>
+        <item quantity="few">%1$d zones ·\u0020</item>
+        <item quantity="many">%1$d zones ·\u0020</item>
+        <item quantity="other">%1$d zones ·\u0020</item>
+    </plurals>
+    <plurals name="feature_home_period_calendar_shifts">
+        <item quantity="zero">%d shifts</item>
+        <item quantity="one">%d shift</item>
+        <item quantity="two">%d shifts</item>
+        <item quantity="few">%d shifts</item>
+        <item quantity="many">%d shifts</item>
+        <item quantity="other">%d shifts</item>
+    </plurals>
+    <plurals name="feature_report_history_header_total">
+        <item quantity="zero">Total %d shifts</item>
+        <item quantity="one">Total %d shift</item>
+        <item quantity="two">Total %d shifts</item>
+        <item quantity="few">Total %d shifts</item>
+        <item quantity="many">Total %d shifts</item>
+        <item quantity="other">Total %d shifts</item>
+    </plurals>
+    <plurals name="feature_vehicle_seconds">
+        <item quantity="one">%d second</item>
+        <item quantity="few">%d seconds</item>
+        <item quantity="many">%d seconds</item>
+        <item quantity="other">%d seconds</item>
+    </plurals>
+    <plurals name="feature_vehicle_minutes">
+        <item quantity="one">%d minute</item>
+        <item quantity="few">%d minutes</item>
+        <item quantity="many">%d minutes</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+    <plurals name="feature_vehicle_hours">
+        <item quantity="one">%d hour</item>
+        <item quantity="few">%d hours</item>
+        <item quantity="many">%d hours</item>
+        <item quantity="other">%d hours</item>
+    </plurals>
+    <plurals name="feature_vehicle_days">
+        <item quantity="one">%d day</item>
+        <item quantity="few">%d days</item>
+        <item quantity="many">%d days</item>
+        <item quantity="other">%d days</item>
+    </plurals>
+    <plurals name="feature_my_balance_replacements">
+        <item quantity="one">%d replacement</item>
+        <item quantity="few">%d replacements</item>
+        <item quantity="many">%d replacements</item>
+        <item quantity="other">%d replacements</item>
+    </plurals>
+    <plurals name="feature_logistics_management_filters_button_default">
+        <item quantity="zero">Show %d tasks</item>
+        <item quantity="one">Show %d task</item>
+        <item quantity="two">Show %d tasks</item>
+        <item quantity="few">Show %d tasks</item>
+        <item quantity="many">Show %d tasks</item>
+        <item quantity="other">Show %d tasks</item>
+    </plurals>
+    <plurals name="feature_battery_maps_cluster_inventory_replenishment_batteries_total">
+        <item quantity="zero">%d batteries</item>
+        <item quantity="one">%d battery</item>
+        <item quantity="two">%d batteries</item>
+        <item quantity="few">%d batteries</item>
+        <item quantity="many">%d batteries</item>
+        <item quantity="other">%d batteries</item>
+    </plurals>
+    <plurals name="feature_battery_maps_cluster_inventory_replenishment_batteries_hint">
+        <item quantity="zero">%d batteries</item>
+        <item quantity="one">%d battery</item>
+        <item quantity="two">%d batteries</item>
+        <item quantity="few">%d batteries</item>
+        <item quantity="many">%d batteries</item>
+        <item quantity="other">%d batteries</item>
+    </plurals>
+</resources>

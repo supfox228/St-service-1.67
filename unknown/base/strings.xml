@@ -1,0 +1,1891 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core ui !-->
+    <string name="core_ui_just_now">Just now</string>
+    <string name="core_ui_loading_error">Loading error</string>
+    <string name="core_ui_not_specified">Not specified</string>
+    <string name="core_ui_sec_ago">%1$d sec ago</string>
+    <string name="core_ui_minutes_ago">%1$d min ago</string>
+    <string name="core_ui_hours_ago">%1$d h ago</string>
+    <string name="core_ui_days_ago">%1$d d ago</string>
+    <string name="core_ui_empty">Empty</string>
+    <string name="core_ui_no_data_to_load">No data to load</string>
+    <string name="core_ui_something_is_wrong">Something is wrong</string>
+    <string name="core_ui_server_not_responding">Server is not responding</string>
+    <string name="core_ui_retry">Retry</string>
+    <string name="core_ui_dialog_button_ok">OK</string>
+    <string name="core_ui_open">Open</string>
+    <string name="core_ui_close">Close</string>
+    <string name="core_ui_error_message">Failed to load data, try again</string>
+    <string name="core_ui_info_close_deck">You can close the deck only on some models of vehicles
+    </string>
+    <string name="core_ui_attention">Attention!</string>
+    <string name="core_ui_warning_open_deck">The battery deck will open</string>
+    <string name="core_ui_continue_text">Continue</string>
+    <string name="core_ui_dont_show_warning_until_end_shift">Don\'t show warning until end of
+        shift
+    </string>
+    <string name="core_ui_oops_dialog">Oops…</string>
+    <string name="core_ui_oops_text">Oops, something went wrong&#8230;</string>
+    <string name="core_ui_no_access">Sorry, but you\nnot have access to the application.\nContact
+        your supervisor.
+    </string>
+    <string name="core_ui_access_forbidden">No rights</string>
+    <string name="core_ui_access_forbidden_description">Contact your supervisor</string>
+    <string name="core_qr_code">QR-code</string>
+    <string name="core_ui_more_help_support">Write to support</string>
+    <string name="core_ui_change_filters">Change current filters or select another</string>
+    <string name="core_ui_no_internet_connection">No internet connection</string>
+    <string name="core_ui_check_your_internet_connection">Check your internet connection, try to
+        connect to another network or turn off VPN
+    </string>
+    <string name="core_ui_reload">Reload</string>
+    <string name="core_ui_server_unavailable">Server unavailable</string>
+    <string name="core_ui_support_team_is_working">Our support team is working on to fix this
+        issue.\nTry again or come back later.
+    </string>
+    <string name="core_ui_query_timeout">\u0020-> Bad network connection</string>
+    <string name="core_ui_burning">Burning</string>
+    <string name="core_ui_internal_error">Internal error</string>
+    <string name="core_ui_cancel">Cancel</string>
+    <string name="core_ui_active_order_status">Status:\u0020</string>
+    <string name="core_ui_active_order_withdrawn">Withdrawn:\u0020</string>
+    <string name="core_ui_active_order_debts">Debts:\u0020</string>
+    <string name="core_ui_dialog_button_yes">Yes</string>
+    <string name="core_ui_all">All</string>
+    <string name="core_ui_done">Done!</string>
+    <string name="core_ui_wrong_qr_code">Wrong QR code</string>
+    <string name="core_ui_edit">Edit</string>
+    <string name="core_ui_create">Create</string>
+    <string name="core_ui_disable_reason_changed">Disable reason changed</string>
+    <string name="core_ui_date_at_time">%1$s at %2$s</string>
+    <string name="core_ui_today">Today at %s</string>
+    <string name="core_ui_yesterday">Yesterday at %s</string>
+    <string name="core_ui_camera_permission_is_not_granted">Camera access denied</string>
+
+
+    <!-- Core Maps !-->
+    <string name="core_maps_geo_permissions_disabled">Permissions disabled</string>
+    <string name="core_maps_geo_is_off">Geo is off</string>
+    <string name="core_maps_geo_data_unavailable">Geo data unavailable, try again later</string>
+
+    <!-- Feature My Balance !-->
+    <string name="feature_my_balance_my_balance">My balance</string>
+    <string name="feature_my_balance_amount">%s ₽</string>
+    <string name="feature_my_balance_history_operations">History of operations</string>
+    <string name="feature_my_balance_battery_replacement">Battery Replacement</string>
+    <string name="feature_my_balance_empty_history_warning">There are no\npayment transactions yet
+    </string>
+    <string name="feature_my_balance_failed_load_warning">Failed to load\nbalance data</string>
+
+    <!-- Feature Alarm !-->
+    <string name="feature_alarm_title">Alarms: %d</string>
+    <string name="feature_alarm_types">Alarm types</string>
+    <string name="feature_alarm_active_alarms">Active alarms</string>
+    <string name="feature_alarm_all_alarms">All alarms</string>
+    <string name="feature_alarm_handling_again">Handling the alarm again won\'t do anything</string>
+    <string name="feature_alarm_further_steps">Choose further steps</string>
+    <string name="feature_alarm_handling">Handling</string>
+    <string name="feature_alarm_type_stealing">Stealing</string>
+    <string name="feature_alarm_type_connection">Connection</string>
+    <string name="feature_alarm_type_unclaimed">Unclaimed</string>
+    <string name="feature_alarm_type_charge">Charge</string>
+    <string name="feature_alarm_type_zone">Zone</string>
+    <string name="feature_alarm_type_lock">Lock</string>
+    <string name="feature_alarm_type_deposit">Deposit</string>
+    <string name="feature_alarm_type_orientaion">Orientaion</string>
+    <string name="feature_alarm_type_doesnt_move">Doesn\'t move</string>
+    <string name="feature_alarm_type_configuration_edit">Configuration Edit</string>
+    <string name="feature_alarm_type_bad_evaluation">Bad evaluation</string>
+    <string name="feature_alarm_copied">Copied</string>
+    <string name="feature_alarm_copy">Copy</string>
+    <string name="feature_alarm_dialog_button_apply">Apply</string>
+    <string name="feature_alarm_dialog_button_search">Search</string>
+
+    <!-- Feature Auth !-->
+
+    <!-- Country picker !-->
+    <string name="feature_auth_afganistan_hint" translatable="false">70 123 4567</string>
+    <string name="feature_auth_algeria_hint" translatable="false">551 23 45 67</string>
+    <string name="feature_auth_american_samoa_hint" translatable="false">684-733-1234</string>
+    <string name="feature_auth_united_arab_emirates_hint" translatable="false">50 123 4567</string>
+    <string name="feature_auth_aland_islands_hint" translatable="false">41 2345678</string>
+    <string name="feature_auth_united_states_america_hint" translatable="false">201-555-0123</string>
+    <string name="feature_auth_andorra_hint" translatable="false">312 345</string>
+    <string name="feature_auth_angola_hint" translatable="false">923 123 456</string>
+    <string name="feature_auth_antigua_and_barbuda_hint" translatable="false">268-464-1234</string>
+    <string name="feature_auth_argentina_hint" translatable="false">9 11 2345-6789</string>
+    <string name="feature_auth_albania_hint" translatable="false">67 212 3456</string>
+    <string name="feature_auth_aruba_hint" translatable="false">560 1234</string>
+    <string name="feature_auth_australia_hint" translatable="false">412 345 678</string>
+    <string name="feature_auth_austria_hint" translatable="false">664 123456</string>
+    <string name="feature_auth_azerbaijan_hint" translatable="false">40 123 45 67</string>
+    <string name="feature_auth_saint_martin_hint" translatable="false">690 00 12 34</string>
+    <string name="feature_auth_bahamas_hint" translatable="false">242-359-1234</string>
+    <string name="feature_auth_bahrain_hint" translatable="false">3600 1234</string>
+    <string name="feature_auth_bangladesh_hint" translatable="false">1812-345678</string>
+    <string name="feature_auth_barbados_hint" translatable="false">246-250-1234</string>
+    <string name="feature_auth_belarus_hint" translatable="false">29 491-19-11</string>
+    <string name="feature_auth_belgium_hint" translatable="false">470 12 34 56</string>
+    <string name="feature_auth_belize_hint" translatable="false">622-1234</string>
+    <string name="feature_auth_benin_hint" translatable="false">90 01 12 34</string>
+    <string name="feature_auth_bermuda_hint" translatable="false">441-370-1234</string>
+    <string name="feature_auth_bhutan_hint" translatable="false">17 12 34 56</string>
+    <string name="feature_auth_united_kingdom_hint" translatable="false">7400 123456</string>
+    <string name="feature_auth_bolivia_hint" translatable="false">71234567</string>
+    <string name="feature_auth_bosnia_hint" translatable="false">61 123 456</string>
+    <string name="feature_auth_botswana_hint" translatable="false">71 123 456</string>
+    <string name="feature_auth_brazil_hint" translatable="false">11 96123-4567</string>
+    <string name="feature_auth_brunei_darussalam_hint" translatable="false">712 3456</string>
+    <string name="feature_auth_bulgaria_hint" translatable="false">48 123 456</string>
+    <string name="feature_auth_burkina_faso_hint" translatable="false">70 12 34 56</string>
+    <string name="feature_auth_cape_verde_hint" translatable="false">991 12 34</string>
+    <string name="feature_auth_cayman_islands_hint" translatable="false">345-323-1234</string>
+    <string name="feature_auth_djibouti_hint" translatable="false">77 83 10 01</string>
+    <string name="feature_auth_cocos_hint" translatable="false">412 345 678</string>
+    <string name="feature_auth_cook_islands_hint" translatable="false">71 234</string>
+    <string name="feature_auth_curacao_hint" translatable="false">9 518 1234</string>
+    <string name="feature_auth_chad_hint" translatable="false">63 01 23 45</string>
+    <string name="feature_auth_czech_republic_hint" translatable="false">601 123 456</string>
+    <string name="feature_auth_china_hint" translatable="false">131 2345 6789</string>
+    <string name="feature_auth_denmark_hint" translatable="false">32 12 34 56</string>
+    <string name="feature_auth_dominician_republic_hint" translatable="false">809-234-5678</string>
+    <string name="feature_auth_dominica_hint" translatable="false">767-225-1234</string>
+    <string name="feature_auth_ecuador_hint" translatable="false">99 123 4567</string>
+    <string name="feature_auth_equatorial_guinea_hint" translatable="false">222 123 456</string>
+    <string name="feature_auth_el_salvador_hint" translatable="false">7012 3456</string>
+    <string name="feature_auth_eritrea_hint" translatable="false">7 123 456</string>
+    <string name="feature_auth_armenia_hint" translatable="false">77 123456</string>
+    <string name="feature_auth_estonia_hint" translatable="false">5123 4567</string>
+    <string name="feature_auth_ethiopia_hint" translatable="false">91 123 4567</string>
+    <string name="feature_auth_falkland_islands_hint" translatable="false">51234</string>
+    <string name="feature_auth_faroe_islands_hint" translatable="false">211234</string>
+    <string name="feature_auth_marocco_hint" translatable="false">650-123456</string>
+    <string name="feature_auth_turkey_hint" translatable="false">501 234 56 78</string>
+    <string name="feature_auth_philippinies_hint" translatable="false">905 123 4567</string>
+    <string name="feature_auth_state_of_palestine_hint" translatable="false">599 123 456</string>
+    <string name="feature_auth_france_hint" translatable="false">6 12 34 56 78</string>
+    <string name="feature_auth_french_guyana_hint" translatable="false">694 20 12 34</string>
+    <string name="feature_auth_french_polynesia_hint" translatable="false">87 12 34 56</string>
+    <string name="feature_auth_gabon_hint" translatable="false">6 03 12 34</string>
+    <string name="feature_auth_gambia_hint" translatable="false">301 2345</string>
+    <string name="feature_auth_ghana_hint" translatable="false">23 123 4567</string>
+    <string name="feature_auth_guinea_hint" translatable="false">601 12 34 56</string>
+    <string name="feature_auth_guinea_bissau_hint" translatable="false">955 012 345</string>
+    <string name="feature_auth_grenada_hint" translatable="false">473-403-1234</string>
+    <string name="feature_auth_greenland_hint" translatable="false">22 12 34</string>
+    <string name="feature_auth_guadeloupe_hint" translatable="false">690 00 12 34</string>
+    <string name="feature_auth_guam_hint" translatable="false">671-300-1234</string>
+    <string name="feature_auth_guatemala_hint" translatable="false">5123 4567</string>
+    <string name="feature_auth_guernsey_hint" translatable="false">7781 123456</string>
+    <string name="feature_auth_guyana_hint" translatable="false">609 1234</string>
+    <string name="feature_auth_south_africa_hint" translatable="false">71 123 4567</string>
+    <string name="feature_auth_south_korea_hint" translatable="false">-2000-0000</string>
+    <string name="feature_auth_south_sudan_hint" translatable="false">977 123 456</string>
+    <string name="feature_auth_georgia_hint" translatable="false">555 12 34 56</string>
+    <string name="feature_auth_haiti_hint" translatable="false">34 10 1234</string>
+    <string name="feature_auth_croatia_hint" translatable="false">92 123 4567</string>
+    <string name="feature_auth_netherlands_hint" translatable="false">6 12345678</string>
+    <string name="feature_auth_honduras_hint" translatable="false">9123-4567</string>
+    <string name="feature_auth_hong_kong_hint" translatable="false">5123 4567</string>
+    <string name="feature_auth_virgin_islands_hint" translatable="false">284-300-1234</string>
+    <string name="feature_auth_spain_hint" translatable="false">612 34 56 78</string>
+    <string name="feature_auth_sweden_hint" translatable="false">70 123 45 67</string>
+    <string name="feature_auth_switzerland_hint" translatable="false">78 123 45 67</string>
+    <string name="feature_auth_japan_hint" translatable="false">-1234-5678</string>
+    <string name="feature_auth_jersey_hint" translatable="false">7797 712345</string>
+    <string name="feature_auth_cambodia_hint" translatable="false">91 234 567</string>
+    <string name="feature_auth_cameroon_hint" translatable="false">6 71 23 45 67</string>
+    <string name="feature_auth_canada_hint" translatable="false">506-234-5678</string>
+    <string name="feature_auth_montenegro_hint" translatable="false">67 622 901</string>
+    <string name="feature_auth_qatar_hint" translatable="false">3312 3456</string>
+    <string name="feature_auth_kazakhstan_hint" translatable="false">771 000 9998</string>
+    <string name="feature_auth_kenya_hint" translatable="false">712 123456</string>
+    <string name="feature_auth_cyprus_hint" translatable="false">96 123456</string>
+    <string name="feature_auth_kyrgyzstan_hint" translatable="false">700 123 456</string>
+    <string name="feature_auth_colombia_hint" translatable="false">321 1234567</string>
+    <string name="feature_auth_comoros_hint" translatable="false">321 23 45</string>
+    <string name="feature_auth_congo_hint" translatable="false">61234567</string>
+    <string name="feature_auth_congo_democratic_hint" translatable="false">991 234 567</string>
+    <string name="feature_auth_kosovo_hint" translatable="false">43 201 234</string>
+    <string name="feature_auth_costa_rica_hint" translatable="false">8312 3456</string>
+    <string name="feature_auth_kuwait_hint" translatable="false">500 12345</string>
+    <string name="feature_auth_north_korea_hint" translatable="false">192 123 4567</string>
+    <string name="feature_auth_north_macedonia_hint" translatable="false">72 345 678</string>
+    <string name="feature_auth_northern_mariana_hint" translatable="false">670-234-5678</string>
+    <string name="feature_auth_cuba_hint" translatable="false">5 1234567</string>
+    <string name="feature_auth_laos_hint" translatable="false">20 23 123 456</string>
+    <string name="feature_auth_lesotho_hint" translatable="false">5012 3456</string>
+    <string name="feature_auth_latvia_hint" translatable="false">21 234 567</string>
+    <string name="feature_auth_liberia_hint" translatable="false">77 012 3456</string>
+    <string name="feature_auth_libya_hint" translatable="false">91-2345678</string>
+    <string name="feature_auth_lithuania_hint" translatable="false">612 34567</string>
+    <string name="feature_auth_lebanon_hint" translatable="false">71 123 456</string>
+    <string name="feature_auth_luxembourg_hint" translatable="false">628 123 456</string>
+    <string name="feature_auth_hungary_hint" translatable="false">20 123 4567</string>
+    <string name="feature_auth_macau_hint" translatable="false">6612 3456</string>
+    <string name="feature_auth_madagascar_hint" translatable="false">32 12 345 67</string>
+    <string name="feature_auth_malawi_hint" translatable="false">991 23 45 67</string>
+    <string name="feature_auth_maldives_hint" translatable="false">771-2345</string>
+    <string name="feature_auth_malaysia_hint" translatable="false">12-345 6789</string>
+    <string name="feature_auth_mali_hint" translatable="false">65 01 23 45</string>
+    <string name="feature_auth_malta_hint" translatable="false">9696 1234</string>
+    <string name="feature_auth_marshall_islands_hint" translatable="false">235-1234</string>
+    <string name="feature_auth_martinique_hint" translatable="false">696 20 12 34</string>
+    <string name="feature_auth_mauritius_hint" translatable="false">5251 2345</string>
+    <string name="feature_auth_mayotte_hint" translatable="false">639 01 23 45</string>
+    <string name="feature_auth_mexico_hint" translatable="false">222 123 4567</string>
+    <string name="feature_auth_egypt_hint" translatable="false">100 123 4567</string>
+    <string name="feature_auth_micro_hint" translatable="false">350 1234</string>
+    <string name="feature_auth_mongolia_hint" translatable="false">8812 3456</string>
+    <string name="feature_auth_moldova_hint" translatable="false">621 12 345</string>
+    <string name="feature_auth_monaco_hint" translatable="false">6 12 34 56 78</string>
+    <string name="feature_auth_montserrat_hint" translatable="false">664-492-3456</string>
+    <string name="feature_auth_mauriatana_hint" translatable="false">22 12 34 56</string>
+    <string name="feature_auth_mozambique_hint" translatable="false">82 123 4567</string>
+    <string name="feature_auth_myanmar_hint" translatable="false">9 712 345 678</string>
+    <string name="feature_auth_namibia_hint" translatable="false">81 123 4567</string>
+    <string name="feature_auth_nauru_hint" translatable="false">555 1234</string>
+    <string name="feature_auth_nepal_hint" translatable="false">984-1234567</string>
+    <string name="feature_auth_niger_hint" translatable="false">93 12 34 56</string>
+    <string name="feature_auth_nigeria_hint" translatable="false">802 123 4567</string>
+    <string name="feature_auth_niue_hint" translatable="false">888 4012</string>
+    <string name="feature_auth_christmas_island_hint" translatable="false">412 345 678</string>
+    <string name="feature_auth_norfolk_hint" translatable="false">3 81234</string>
+    <string name="feature_auth_norway_hint" translatable="false">406 12 345</string>
+    <string name="feature_auth_central_african_hint" translatable="false">70 01 23 45</string>
+    <string name="feature_auth_uzbekistan_hint" translatable="false">91 234 56 78</string>
+    <string name="feature_auth_pakistan_hint" translatable="false">301 2345678</string>
+    <string name="feature_auth_palau_hint" translatable="false">620 1234</string>
+    <string name="feature_auth_panama_hint" translatable="false">6123-4567</string>
+    <string name="feature_auth_papua_new_guinea_hint" translatable="false">7012 3456</string>
+    <string name="feature_auth_paraguay_hint" translatable="false">961 456789</string>
+    <string name="feature_auth_peru_hint" translatable="false">912 345 678</string>
+    <string name="feature_auth_poland_hint" translatable="false">512 345 678</string>
+    <string name="feature_auth_portugal_hint" translatable="false">912 345 678</string>
+    <string name="feature_auth_puerto_rico_hint" translatable="false">787-234-5678</string>
+    <string name="feature_auth_reunion_hint" translatable="false">692 12 34 56</string>
+    <string name="feature_auth_romania_hint" translatable="false">712 034 567</string>
+    <string name="feature_auth_rwanda_hint" translatable="false">720 123 456</string>
+    <string name="feature_auth_russia_hint" translatable="false">912 345-67-89</string>
+    <string name="feature_auth_saint_barhelemy_hint" translatable="false">690 00 12 34</string>
+    <string name="feature_auth_saint_helena_hint" translatable="false">51234</string>
+    <string name="feature_auth_saint_kitts_hint" translatable="false">869-765-2917</string>
+    <string name="feature_auth_saint_lucia_hint" translatable="false">758-284-5678</string>
+    <string name="feature_auth_saint_pierre_hint" translatable="false">55 12 34</string>
+    <string name="feature_auth_saint_vincent_hint" translatable="false">784-430-1234</string>
+    <string name="feature_auth_samoa_hint" translatable="false">72 12345</string>
+    <string name="feature_auth_san_marino_hint" translatable="false">66 66 12 12</string>
+    <string name="feature_auth_sao_tome_hint" translatable="false">981 2345</string>
+    <string name="feature_auth_senegal_hint" translatable="false">70 123 45 67</string>
+    <string name="feature_auth_seychelles_hint" translatable="false">2 510 123</string>
+    <string name="feature_auth_serbia_hint" translatable="false">60 1234567</string>
+    <string name="feature_auth_sierra_leone_hint" translatable="false">25 123456</string>
+    <string name="feature_auth_singapore_hint" translatable="false">8123 4567</string>
+    <string name="feature_auth_sint_maarten_hint" translatable="false">721-520-5678</string>
+    <string name="feature_auth_slovakia_hint" translatable="false">912 123 456</string>
+    <string name="feature_auth_solomon_islands_hint" translatable="false">74 21234</string>
+    <string name="feature_auth_somali_hint" translatable="false">7 1123456</string>
+    <string name="feature_auth_siri_lanka_hint" translatable="false">71 234 5678</string>
+    <string name="feature_auth_sudan_hint" translatable="false">91 123 1234</string>
+    <string name="feature_auth_suriname_hint" translatable="false">741-2345</string>
+    <string name="feature_auth_syrian_hint" translatable="false">944 567 890</string>
+    <string name="feature_auth_saudi_arabia_hint" translatable="false">51 234 5678</string>
+    <string name="feature_auth_swaziland_hint" translatable="false">7612 3456</string>
+    <string name="feature_auth_chile_hint" translatable="false">2 2123 4567</string>
+    <string name="feature_auth_taijikistan_hint" translatable="false">917 12 3456</string>
+    <string name="feature_auth_tazmania_hint" translatable="false">621 234 567</string>
+    <string name="feature_auth_thailand_hint" translatable="false">81 234 5678</string>
+    <string name="feature_auth_taiwan_hint" translatable="false">912 345 678</string>
+    <string name="feature_auth_timor_leste_hint" translatable="false">7721 2345</string>
+    <string name="feature_auth_togo_hint" translatable="false">90 11 23 45</string>
+    <string name="feature_auth_tokelau_hint" translatable="false">7290</string>
+    <string name="feature_auth_tonga_hint" translatable="false">771 5123</string>
+    <string name="feature_auth_trinidad_and_tobago_hint" translatable="false">868-291-1234</string>
+    <string name="feature_auth_tunisia_hint" translatable="false">20 123 456</string>
+    <string name="feature_auth_turks_and_caicos_hint" translatable="false">649-231-1234</string>
+    <string name="feature_auth_tuvalu_hint" translatable="false">901234</string>
+    <string name="feature_auth_turkmenistan_hint" translatable="false">66 123456</string>
+    <string name="feature_auth_uganda_hint" translatable="false">712 345678</string>
+    <string name="feature_auth_ukraina_hint" translatable="false">50 123 4567</string>
+    <string name="feature_auth_oman_hint" translatable="false">9212 3456</string>
+    <string name="feature_auth_uruguay_hint" translatable="false">94 231 234</string>
+    <string name="feature_auth_jordan_hint" translatable="false">7 9012 3456</string>
+    <string name="feature_auth_vanuatu_hint" translatable="false">591 2345</string>
+    <string name="feature_auth_venezuela_hint" translatable="false">412-1234567</string>
+    <string name="feature_auth_vietnam_hint" translatable="false">91 234 56 78</string>
+    <string name="feature_auth_walli_and_fatuna_hint" translatable="false">82 12 34</string>
+    <string name="feature_auth_yemen_hint" translatable="false">712 345 678</string>
+    <string name="feature_auth_new_caledonia_hint" translatable="false">75.12.34</string>
+    <string name="feature_auth_new_zealand_hint" translatable="false">21 123 4567</string>
+    <string name="feature_auth_greece_hint" translatable="false">691 234 5678</string>
+    <string name="feature_auth_zambia_hint" translatable="false">95 5123456</string>
+    <string name="feature_auth_zimbabwe_hint" translatable="false">71 234 5678</string>
+    <string name="feature_auth_anguilla_hint" translatable="false">(264) 123-1234</string>
+    <string name="feature_auth_antarctica_hint" translatable="false">xxx xxx</string>
+    <string name="feature_auth_burundi_hint" translatable="false">29 12 34 56</string>
+    <string name="feature_auth_cote_dlvoire_hint" translatable="false">02 12 34 56</string>
+    <string name="feature_auth_germany_hint" translatable="false">0171 123456</string>
+    <string name="feature_auth_finland_hint" translatable="false">042 123456</string>
+    <string name="feature_auth_fiji_hint" translatable="false">665 1234</string>
+    <string name="feature_auth_israil_hint" translatable="false">03-123-4567</string>
+    <string name="feature_auth_ireland_hint" translatable="false">087 123 4567</string>
+    <string name="feature_auth_indonesia_hint" translatable="false">21 8379 6236</string>
+    <string name="feature_auth_india_hint" translatable="false">241 123 5</string>
+    <string name="feature_auth_iran_hint" translatable="false">021 1234 5678</string>
+    <string name="feature_auth_italia_hint" translatable="false">388 123 4567</string>
+    <string name="feature_auth_jamaica_hint" translatable="false">(876) 123-4567</string>
+    <string name="feature_auth_iraq_hint" translatable="false">0777 123 4567</string>
+    <string name="feature_auth_slovenia_hint" translatable="false">070 123 456</string>
+    <string name="feature_auth_unkown">Unkown</string>
+    <string name="feature_auth_andora">Andorra</string>
+    <string name="feature_auth_united_arab_emirates">United Arab Emirates (UAE)</string>
+    <string name="feature_auth_afghanistan">Afghanistan</string>
+    <string name="feature_auth_antigua_and_barbuda">Antigua and Barbuda</string>
+    <string name="feature_auth_anguilla">Anguilla</string>
+    <string name="feature_auth_albania">Albania</string>
+    <string name="feature_auth_armenia">Armenia</string>
+    <string name="feature_auth_angola">Angola</string>
+    <string name="feature_auth_antarctica">Antarctica</string>
+    <string name="feature_auth_argentina">Argentina</string>
+    <string name="feature_auth_american_samoa">American Samoa</string>
+    <string name="feature_auth_austria">Austria</string>
+    <string name="feature_auth_australia">Australia</string>
+    <string name="feature_auth_aruba">Aruba</string>
+    <string name="feature_auth_aland_islands">Åland Islands</string>
+    <string name="feature_auth_azerbaijan">Azerbaijan</string>
+    <string name="feature_auth_andorra">Andorra</string>
+    <string name="feature_auth_bosnia">Bosnia And Herzegovina</string>
+    <string name="feature_auth_barbados">Barbados</string>
+    <string name="feature_auth_bangladesh">Bangladesh</string>
+    <string name="feature_auth_belgium">Belgium</string>
+    <string name="feature_auth_burkina_faso">Burkina Faso</string>
+    <string name="feature_auth_bulgaria">Bulgaria</string>
+    <string name="feature_auth_bahrain">Bahrain</string>
+    <string name="feature_auth_burundi">Burundi</string>
+    <string name="feature_auth_benin">Benin</string>
+    <string name="feature_auth_saint_barhelemy">Saint Barthélemy</string>
+    <string name="feature_auth_bermuda">Bermuda</string>
+    <string name="feature_auth_brunei_darussalam">Brunei Darussalam</string>
+    <string name="feature_auth_bolivia">Bolivia</string>
+    <string name="feature_auth_brazil">Brazil</string>
+    <string name="feature_auth_bahamas">Bahamas</string>
+    <string name="feature_auth_bhutan">Bhutan</string>
+    <string name="feature_auth_botswana">Botswana</string>
+    <string name="feature_auth_belarus">Belarus</string>
+    <string name="feature_auth_belize">Belize</string>
+    <string name="feature_auth_canada">Canada</string>
+    <string name="feature_auth_cocos">Cocos (keeling) Islands</string>
+    <string name="feature_auth_congo_democratic">Congo, The Democratic Republic Of The</string>
+    <string name="feature_auth_central_african">Central African Republic</string>
+    <string name="feature_auth_congo">Congo</string>
+    <string name="feature_auth_switzerland">Switzerland</string>
+    <string name="feature_auth_cote_dlvoire">Côte D\'ivoire</string>
+    <string name="feature_auth_cook_islands">Cook Islands</string>
+    <string name="feature_auth_chile">Chile</string>
+    <string name="feature_auth_cameroon">Cameroon</string>
+    <string name="feature_auth_china">China</string>
+    <string name="feature_auth_colombia">Colombia</string>
+    <string name="feature_auth_costa_rica">Costa Rica</string>
+    <string name="feature_auth_cuba">Cuba</string>
+    <string name="feature_auth_cape_verde">Cape Verde</string>
+    <string name="feature_auth_curacao">Curaçao</string>
+    <string name="feature_auth_christmas_island">Christmas Island</string>
+    <string name="feature_auth_cyprus">Cyprus</string>
+    <string name="feature_auth_czech_republic">Czech Republic</string>
+    <string name="feature_auth_germany">Germany</string>
+    <string name="feature_auth_djibouti">Djibouti</string>
+    <string name="feature_auth_denmark">Denmark</string>
+    <string name="feature_auth_dominica">Dominica</string>
+    <string name="feature_auth_dominician_republic">Dominican Republic</string>
+    <string name="feature_auth_algeria">Algeria</string>
+    <string name="feature_auth_ecuador">Ecuador</string>
+    <string name="feature_auth_estonia">Estonia</string>
+    <string name="feature_auth_egypt">Egypt</string>
+    <string name="feature_auth_eritrea">Eritrea</string>
+    <string name="feature_auth_spain">Spain</string>
+    <string name="feature_auth_ethiopia">Ethiopia</string>
+    <string name="feature_auth_finland">Finland</string>
+    <string name="feature_auth_fiji">Fiji</string>
+    <string name="feature_auth_falkland_islands">Falkland Islands (malvinas)</string>
+    <string name="feature_auth_micro">Micronesia, Federated States Of</string>
+    <string name="feature_auth_faroe_islands">Faroe Islands</string>
+    <string name="feature_auth_france">France</string>
+    <string name="feature_auth_gabon">Gabon</string>
+    <string name="feature_auth_united_kingdom">United Kingdom</string>
+    <string name="feature_auth_grenada">Grenada</string>
+    <string name="feature_auth_georgia">Georgia</string>
+    <string name="feature_auth_french_guyana">French Guyana</string>
+    <string name="feature_auth_ghana">Ghana</string>
+    <string name="feature_auth_guernsey">Guernsey</string>
+    <string name="feature_auth_gibraltar">Gibraltar</string>
+    <string name="feature_auth_greenland">Greenland</string>
+    <string name="feature_auth_gambia">Gambia</string>
+    <string name="feature_auth_guinea">Guinea</string>
+    <string name="feature_auth_guadeloupe">Guadeloupe</string>
+    <string name="feature_auth_equatorial_guinea">Equatorial Guinea</string>
+    <string name="feature_auth_greece">Greece</string>
+    <string name="feature_auth_guatemala">Guatemala</string>
+    <string name="feature_auth_guam">Guam</string>
+    <string name="feature_auth_guinea_bissau">Guinea-bissau</string>
+    <string name="feature_auth_guyana">Guyana</string>
+    <string name="feature_auth_hong_kong">Hong Kong</string>
+    <string name="feature_auth_honduras">Honduras</string>
+    <string name="feature_auth_croatia">Croatia</string>
+    <string name="feature_auth_haiti">Haiti</string>
+    <string name="feature_auth_hungary">Hungary</string>
+    <string name="feature_auth_indonesia">Indonesia</string>
+    <string name="feature_auth_ireland">Ireland</string>
+    <string name="feature_auth_israil">Israel</string>
+    <string name="feature_auth_isle_of_man">Isle Of Man</string>
+    <string name="feature_auth_iceland">Iceland</string>
+    <string name="feature_auth_india">India</string>
+    <string name="feature_auth_british_indian_ocean">British Indian Ocean Territory</string>
+    <string name="feature_auth_iraq">Iraq</string>
+    <string name="feature_auth_iran">Iran, Islamic Republic Of</string>
+    <string name="feature_auth_italia">Italy</string>
+    <string name="feature_auth_jersey">Jersey</string>
+    <string name="feature_auth_jamaica">Jamaica</string>
+    <string name="feature_auth_jordan">Jordan</string>
+    <string name="feature_auth_japan">Japan</string>
+    <string name="feature_auth_kenya">Kenya</string>
+    <string name="feature_auth_kyrgyzstan">Kyrgyzstan</string>
+    <string name="feature_auth_cambodia">Cambodia</string>
+    <string name="feature_auth_kiribati">Kiribati</string>
+    <string name="feature_auth_comoros">Comoros</string>
+    <string name="feature_auth_saint_kitts">Saint Kitts and Nevis</string>
+    <string name="feature_auth_north_korea">North Korea</string>
+    <string name="feature_auth_south_korea">South Korea</string>
+    <string name="feature_auth_kuwait">Kuwait</string>
+    <string name="feature_auth_cayman_islands">Cayman Islands</string>
+    <string name="feature_auth_kazakhstan">Kazakhstan</string>
+    <string name="feature_auth_laos">Lao People\'s Democratic Republic</string>
+    <string name="feature_auth_lebanon">Lebanon</string>
+    <string name="feature_auth_saint_lucia">Saint Lucia</string>
+    <string name="feature_auth_liechtenstein">Liechtenstein</string>
+    <string name="feature_auth_siri_lanka">Sri Lanka</string>
+    <string name="feature_auth_liberia">Liberia</string>
+    <string name="feature_auth_lesotho">Lesotho</string>
+    <string name="feature_auth_lithuania">Lithuania</string>
+    <string name="feature_auth_luxembourg">Luxembourg</string>
+    <string name="feature_auth_latvia">Latvia</string>
+    <string name="feature_auth_libya">Libya</string>
+    <string name="feature_auth_marocco">Morocco</string>
+    <string name="feature_auth_monaco">Monaco</string>
+    <string name="feature_auth_moldova">Moldova, Republic Of</string>
+    <string name="feature_auth_montenegro">Montenegro</string>
+    <string name="feature_auth_saint_martin">Saint Martin</string>
+    <string name="feature_auth_madagascar">Madagascar</string>
+    <string name="feature_auth_marshall_islands">Marshall Islands</string>
+    <string name="feature_auth_north_macedonia">Macedonia (FYROM)</string>
+    <string name="feature_auth_mali">Mali</string>
+    <string name="feature_auth_myanmar">Myanmar</string>
+    <string name="feature_auth_mongolia">Mongolia</string>
+    <string name="feature_auth_macau">Macau</string>
+    <string name="feature_auth_northern_mariana">Northern Mariana Islands</string>
+    <string name="feature_auth_martinique">Martinique</string>
+    <string name="feature_auth_mauriatana">Mauritania</string>
+    <string name="feature_auth_montserrat">Montserrat</string>
+    <string name="feature_auth_malta">Malta</string>
+    <string name="feature_auth_mauritius">Mauritius</string>
+    <string name="feature_auth_maldives">Maldives</string>
+    <string name="feature_auth_malawi">Malawi</string>
+    <string name="feature_auth_mexico">Mexico</string>
+    <string name="feature_auth_malaysia">Malaysia</string>
+    <string name="feature_auth_mozambique">Mozambique</string>
+    <string name="feature_auth_namibia">Namibia</string>
+    <string name="feature_auth_new_caledonia">New Caledonia</string>
+    <string name="feature_auth_niger">Niger</string>
+    <string name="feature_auth_norfolk">Norfolk Islands</string>
+    <string name="feature_auth_nigeria">Nigeria</string>
+    <string name="feature_auth_nicaragua">Nicaragua</string>
+    <string name="feature_auth_netherlands">Netherlands</string>
+    <string name="feature_auth_norway">Norway</string>
+    <string name="feature_auth_nepal">Nepal</string>
+    <string name="feature_auth_nauru">Nauru</string>
+    <string name="feature_auth_niue">Niue</string>
+    <string name="feature_auth_new_zealand">New Zealand</string>
+    <string name="feature_auth_oman">Oman</string>
+    <string name="feature_auth_panama">Panama</string>
+    <string name="feature_auth_peru">Peru</string>
+    <string name="feature_auth_french_polynesia">French Polynesia</string>
+    <string name="feature_auth_papua_new_guinea">Papua New Guinea</string>
+    <string name="feature_auth_philippinies">Philippines</string>
+    <string name="feature_auth_pakistan">Pakistan</string>
+    <string name="feature_auth_poland">Poland</string>
+    <string name="feature_auth_saint_pierre">Saint Pierre And Miquelon</string>
+    <string name="feature_auth_pitcairn">Pitcairn Islands</string>
+    <string name="feature_auth_puerto_rico">Puerto Rico</string>
+    <string name="feature_auth_state_of_palestine">Palestine</string>
+    <string name="feature_auth_portugal">Portugal</string>
+    <string name="feature_auth_palau">Palau</string>
+    <string name="feature_auth_paraguay">Paraguay</string>
+    <string name="feature_auth_qatar">Qatar</string>
+    <string name="feature_auth_reunion">Réunion</string>
+    <string name="feature_auth_romania">Romania</string>
+    <string name="feature_auth_serbia">Serbia</string>
+    <string name="feature_auth_russia">Russian Federation</string>
+    <string name="feature_auth_rwanda">Rwanda</string>
+    <string name="feature_auth_saudi_arabia">Saudi Arabia</string>
+    <string name="feature_auth_solomon_islands">Solomon Islands</string>
+    <string name="feature_auth_seychelles">Seychelles</string>
+    <string name="feature_auth_sudan">Sudan</string>
+    <string name="feature_auth_sweden">Sweden</string>
+    <string name="feature_auth_singapore">Singapore</string>
+    <string name="feature_auth_saint_helena">Saint Helena, Ascension And Tristan Da Cunha</string>
+    <string name="feature_auth_slovenia">Slovenia</string>
+    <string name="feature_auth_slovakia">Slovakia</string>
+    <string name="feature_auth_sierra_leone">Sierra Leone</string>
+    <string name="feature_auth_san_marino">San Marino</string>
+    <string name="feature_auth_senegal">Senegal</string>
+    <string name="feature_auth_somali">Somalia</string>
+    <string name="feature_auth_suriname">Suriname</string>
+    <string name="feature_auth_south_sudan">South Sudan</string>
+    <string name="feature_auth_sao_tome">Sao Tome And Principe</string>
+    <string name="feature_auth_el_salvador">El Salvador</string>
+    <string name="feature_auth_sint_maarten">Sint Maarten</string>
+    <string name="feature_auth_syrian">Syrian Arab Republic</string>
+    <string name="feature_auth_swaziland">Swaziland</string>
+    <string name="feature_auth_turks_and_caicos">Turks and Caicos Islands</string>
+    <string name="feature_auth_chad">Chad</string>
+    <string name="feature_auth_togo">Togo</string>
+    <string name="feature_auth_thailand">Thailand</string>
+    <string name="feature_auth_taijikistan">Tajikistan</string>
+    <string name="feature_auth_tokelau">Tokelau</string>
+    <string name="feature_auth_timor_leste">Timor-leste</string>
+    <string name="feature_auth_turkmenistan">Turkmenistan</string>
+    <string name="feature_auth_tunisia">Tunisia</string>
+    <string name="feature_auth_tonga">Tonga</string>
+    <string name="feature_auth_turkey">Türkiye</string>
+    <string name="feature_auth_trinidad_and_tobago"><![CDATA[Trinidad & Tobago]]></string>
+    <string name="feature_auth_tuvalu">Tuvalu</string>
+    <string name="feature_auth_taiwan">Taiwan</string>
+    <string name="feature_auth_tazmania">Tanzania, United Republic Of</string>
+    <string name="feature_auth_ukraina">Ukraine</string>
+    <string name="feature_auth_uganda">Uganda</string>
+    <string name="feature_auth_united_states_america">United States Of America</string>
+    <string name="feature_auth_uruguay">Uruguay</string>
+    <string name="feature_auth_uzbekistan">Uzbekistan</string>
+    <string name="feature_auth_holy_see">Holy See (vatican City State)</string>
+    <string name="feature_auth_saint_vincent"><![CDATA[Saint Vincent & The Grenadines]]></string>
+    <string name="feature_auth_venezuela">Venezuela, Bolivarian Republic Of</string>
+    <string name="feature_auth_virgin_islands">British Virgin Islands</string>
+    <string name="feature_auth_virgin_island_us">US Virgin Islands</string>
+    <string name="feature_auth_vietnam">Vietnam</string>
+    <string name="feature_auth_vanuatu">Vanuatu</string>
+    <string name="feature_auth_walli_and_fatuna">Wallis And Futuna</string>
+    <string name="feature_auth_samoa">Samoa</string>
+    <string name="feature_auth_kosovo">Kosovo</string>
+    <string name="feature_auth_yemen">Yemen</string>
+    <string name="feature_auth_mayotte">Mayotte</string>
+    <string name="feature_auth_south_africa">South Africa</string>
+    <string name="feature_auth_zambia">Zambia</string>
+    <string name="feature_auth_zimbabwe">Zimbabwe</string>
+
+    <string name="feature_auth_in_application_1">Log in</string>
+    <string name="feature_auth_in_application_2">to the app</string>
+    <string name="feature_auth_phone_number">By phone number</string>
+    <string name="feature_auth_log_in">Log in</string>
+    <string name="feature_auth_by_phone_number">by phone number</string>
+    <string name="feature_auth_get_sms_code">Get the code</string>
+    <string name="feature_auth_other_server_title">Server address</string>
+    <string name="feature_auth_country_code">Country code</string>
+    <string name="feature_auth_enter_code">Enter the code</string>
+    <string name="feature_auth_enter_code_placeholder">Enter the code or country</string>
+    <string name="feature_auth_from_notification">from notification</string>
+    <string name="feature_auth_from_sms">from SMS</string>
+    <string name="feature_auth_refresh_get_code">New code %s</string>
+    <string name="feature_auth_sms_code_placeholder">000000</string>
+    <string name="feature_auth_enter_address">Enter address</string>
+    <string name="feature_auth_save">Save</string>
+    <string name="feature_auth_main_choose_vendor_auth">Choose vendor</string>
+    <string name="feature_auth_choose_city">Choose city</string>
+    <string name="feature_auth_name_of_the_city">Name of the city</string>
+    <string name="feature_auth_you_accept">By continuing, you accept the</string>
+    <string name="feature_auth_privacy_policy">privacy policy</string>
+    <string name="feature_auth_organization_title">Organization</string>
+    <string name="feature_auth_name_of_the_organization">Name of the organization</string>
+    <string name="feature_auth_vpn_error">Sorry, but you\nnot have access to the application.\nCheck the VPN connections.\nContact your supervisor.</string>
+    <string name="feature_auth_vendors_error">Sorry, but you\nnot have access to the application.\nCheck for vendors.\nContact your supervisor.</string>
+    <string name="feature_auth_empty_organizations">You are not registered as an employee.\nPlease contact administrator.</string>
+
+    <!-- Feature Battery maps !-->
+    <string name="feature_battery_maps_change_battery">Change battery</string>
+    <string name="feature_battery_maps_transition">Transition</string>
+    <string name="feature_battery_maps_loading_wait">Please, wait</string>
+    <string name="feature_battery_maps_total_task">Total %s</string>
+    <string name="feature_battery_maps_pickup">Pickup</string>
+    <string name="feature_battery_maps_bring">Bring</string>
+    <string name="feature_battery_maps_vehicles_count">%d vehicles</string>
+    <string name="feature_battery_maps_submerge">Submerge</string>
+    <string name="feature_battery_maps_unload">Unload</string>
+    <string name="feature_battery_maps_end_a_task">End a task?</string>
+    <string name="feature_battery_maps_yes">Yes</string>
+    <string name="feature_battery_maps_no">No</string>
+    <string name="feature_battery_maps_task_completed">Task completed</string>
+    <string name="feature_battery_maps_select_vehicles">Select vehicles</string>
+    <string name="feature_battery_maps_submerge_vehicle_count">Submerge %d vehicles</string>
+    <string name="feature_battery_maps_unload_vehicle_count">Unload %d vehicles</string>
+    <string name="feature_battery_maps_vehicle_not_found">Vehicle not found</string>
+    <string name="feature_battery_maps_vehicle_enabled">Vehicle status enabled</string>
+    <string name="feature_battery_maps_vehicle_in_rent">Vehicle is currently on rent</string>
+    <string name="feature_battery_maps_vehicle_in_list">Vehicle is already in the list</string>
+    <string name="feature_battery_maps_get_directions">Get directions</string>
+    <string name="feature_battery_maps_no_task_battery">Transport does not require battery
+        replacement
+    </string>
+    <string name="feature_battery_maps_track">Track</string>
+    <string name="feature_battery_maps_no_photos">No photos</string>
+    <string name="feature_battery_maps_display_error">Display error.\nContact support</string>
+    <string name="feature_battery_maps_beep_yes">Beep - yes!</string>
+    <string name="feature_battery_maps_search_vehicle_hint">№ Vehicle</string>
+    <string name="feature_battery_maps_find">Find</string>
+    <string name="feature_battery_maps_filter_available">Available</string>
+    <string name="feature_battery_maps_tasks_unavailable">Tasks are not available</string>
+    <string name="feature_battery_maps_tasks_unavailable_description">Need to start shift</string>
+
+
+    <!-- Feature Battery maps cluster !-->
+    <string name="feature_battery_maps_cluster_change_battery">Change battery</string>
+    <string name="feature_battery_maps_cluster_transition">Transition</string>
+    <string name="feature_battery_maps_cluster_loading_wait">Please, wait</string>
+    <string name="feature_battery_maps_cluster_pickup">Pickup</string>
+    <string name="feature_battery_maps_cluster_request_sent">Request has been sent</string>
+    <string name="feature_battery_maps_cluster_bring">Bring</string>
+    <string name="feature_battery_maps_cluster_vehicles_count">%d vehicles</string>
+    <string name="feature_battery_maps_cluster_submerge">Submerge</string>
+    <string name="feature_battery_maps_cluster_unload">Unload</string>
+    <string name="feature_battery_maps_cluster_end_a_task">End a task?</string>
+    <string name="feature_battery_maps_cluster_yes">Yes</string>
+    <string name="feature_battery_maps_cluster_no">No</string>
+    <string name="feature_battery_maps_cluster_task_completed">Task completed</string>
+    <string name="feature_battery_maps_cluster_select_vehicles">Select vehicles</string>
+    <string name="feature_battery_maps_cluster_submerge_vehicle_count">Submerge %d vehicles</string>
+    <string name="feature_battery_maps_cluster_unload_vehicle_count">Unload %d vehicles</string>
+    <string name="feature_battery_maps_cluster_vehicle_not_found">Vehicle not found</string>
+    <string name="feature_battery_maps_cluster_vehicle_enabled">Vehicle status enabled</string>
+    <string name="feature_battery_maps_cluster_vehicle_in_rent">Vehicle is currently on rent
+    </string>
+    <string name="feature_battery_maps_cluster_vehicle_in_list">Vehicle is already in the list
+    </string>
+    <string name="feature_battery_maps_cluster_get_directions">Get directions</string>
+    <string name="feature_battery_maps_cluster_no_task_battery">Transport does not require battery
+        replacement
+    </string>
+    <string name="feature_battery_maps_cluster_track">Track</string>
+    <string name="feature_battery_maps_cluster_parking">Parking</string>
+    <string name="feature_battery_maps_cluster_parking_vehicles">%s Vehicles</string>
+    <string name="feature_battery_maps_cluster_no_photos">No photos</string>
+    <string name="feature_battery_maps_cluster_battery_status_at_work">At work</string>
+    <string name="feature_battery_maps_cluster_display_error">Display error.\nContact support
+    </string>
+    <string name="feature_battery_maps_cluster_display_copy_address">Copied</string>
+    <string name="feature_battery_maps_cluster_beep_yes">Beep - yes!</string>
+    <string name="feature_battery_maps_cluster_search_vehicle_hint">№ Vehicle</string>
+    <string name="feature_battery_maps_cluster_find">Find</string>
+    <string name="feature_battery_maps_cluster_filter_available">Available</string>
+    <string name="feature_battery_maps_cluster_tech_station_sheet_add_battery">Add</string>
+    <string name="feature_battery_maps_cluster_tech_station_sheet_service_center">Service center</string>
+    <string name="feature_battery_maps_cluster_tech_station_sheet_charge_center">Charge center</string>
+    <string name="feature_battery_maps_cluster_tech_station_sheet_add_battery_error">The feature is not available yet</string>
+    <string name="feature_battery_maps_cluster_inventory_alert_title">No batteries to replace</string>
+    <string name="feature_battery_maps_cluster_inventory_alert_description">
+        You don't have a single battery\nto complete the task.\nRefill your inventory
+    </string>
+    <string name="feature_battery_maps_cluster_inventory_alert_button_replenish">Replenish inventory</string>
+    <string name="feature_battery_maps_cluster_inventory_error_loading">
+        There is a problem with loading inventory. We are already fixing it, it will be working soon.
+    </string>
+
+    <!-- Feature change coordinates !-->
+    <string name="feature_change_coordinates_title">Replace coordinates</string>
+    <string name="feature_change_coordinates_description">The coordinates of your smartphone\nwill
+        replace the coordinates of the GPS tracker
+    </string>
+    <string name="feature_change_coordinates_card_title">The phone coordinates will be linked
+    </string>
+    <string name="feature_change_coordinates_card_description">GPS coordinates will be updated
+    </string>
+    <string name="feature_change_coordinates_button_change">Replace coordinates</string>
+    <string name="feature_change_coordinates_success_title">Successful replacement of\ncoordinates
+    </string>
+    <string name="feature_change_coordinates_button_super">Super!</string>
+    <string name="feature_change_coordinates_error_title">Coordinate replacement error</string>
+    <string name="feature_change_coordinates_error_description">The coordinates of the vehicle have
+        not changed for the vehicle %s
+    </string>
+
+    <!-- Feature change vehicle status !-->
+    <string name="feature_change_vehicle_status_app_bar">Status Management</string>
+    <string name="feature_change_vehicle_status_multi_app_bar">Change status</string>
+    <string name="feature_change_vehicle_status_title">Business status / Substatus</string>
+    <string name="feature_change_vehicle_status_reasons_title">Disable reasons</string>
+    <string name="feature_change_vehicle_status_button">Change status</string>
+    <string name="feature_change_vehicle_status_button_apply">Apply</string>
+    <string name="feature_change_vehicle_status_dialog_title">Reasons for withdrawal are grouped by
+        business status / substatus
+    </string>
+    <string name="feature_change_vehicle_status_dialog_body">If a vehicle has one reason, it will
+        have a corresponding business status
+    </string>
+    <string name="feature_change_vehicle_status_dialog_button">Now it is clear</string>
+    <string name="feature_change_vehicle_status_remove_access_app_bar">Remove access</string>
+    <string name="feature_change_vehicle_status_remove_access_button">Remove access</string>
+    <string name="feature_change_vehicle_status_remove_super_button">Super!</string>
+
+    <!-- Feature choose from list !-->
+    <string name="feature_choose_from_list_button">Apply</string>
+
+    <string name="feature_create_task_service_center">Service center</string>
+
+    <!-- Feature filters map !-->
+    <string name="feature_filters_map_reset">Reset</string>
+    <string name="feature_filters_map_filters">Filters</string>
+    <string name="feature_filters_map_model">Model</string>
+    <string name="feature_filters_map_model_placeholder">Model name</string>
+    <string name="feature_filters_map_chose">Selected</string>
+    <string name="feature_filters_map_chose_and_counter">Selected %s</string>
+    <string name="feature_filters_map_filter_available">Available</string>
+    <string name="feature_filters_map_disabled_reasons">Statuses</string>
+    <string name="feature_filters_map_service_statuses">Service statuses</string>
+    <string name="feature_filters_map_service_info">Accounting statuses reflect the vehicle life
+        cycle
+    </string>
+    <string name="feature_filters_map_service_info_description">By default, the filter for the
+        vehicle "Registered" is activated
+    </string>
+    <string name="feature_filters_map_tech_zone">Techzones</string>
+    <string name="feature_filters_map_tech_placeholder">Techzone name</string>
+    <string name="feature_filters_map_charge">Charge percentage</string>
+    <string name="feature_filters_map_more">More</string>
+    <string name="feature_filters_map_less">Less</string>
+    <string name="feature_filters_map_show">Show • %d Vehicle</string>
+    <string name="feature_filters_map_select_all">Select all</string>
+    <string name="feature_filters_map_offline">Offline</string>
+    <string name="feature_filters_map_stand_time">Idle time</string>
+    <string name="feature_filters_map_no_gps">No GPS</string>
+    <string name="feature_filters_map_additional">Additional</string>
+    <string name="feature_filters_map_is_enabled">Enabled</string>
+    <string name="feature_filters_map_is_in_service_mode">Service mode</string>
+    <string name="feature_filters_map_only_for_rent">Only for rent</string>
+    <string name="feature_filters_map_less_hint_hours">less %s h</string>
+    <string name="feature_filters_map_more_hint_hours">more %s h</string>
+    <string name="feature_filters_map_idle_hint_hours">more %s h</string>
+    <string name="feature_filters_map_choose_time_sheet_title">Time, in hours</string>
+    <string name="feature_filters_map_parking_info_loading_error">Parking info loading error
+    </string>
+    <string name="feature_filters_map_parking_name_title">Parking</string>
+    <string name="feature_filters_map_parking_vehicles_count">%s Vehicles</string>
+    <string name="feature_filters_map_filter_name">Adding to favorites</string>
+    <string name="feature_filters_map_filter_name_hint">For example, model</string>
+    <string name="feature_filters_map_filter_description_hint">Enter the name of the filter</string>
+    <string name="feature_filters_map_filter_percantage_hint">For example, 50</string>
+    <string name="feature_filters_map_filters_added">Filters added
+        \nto favorites
+    </string>
+    <string name="feature_filters_map_filters_removed">Filters removed
+        \nfrom favorites
+    </string>
+    <string name="feature_filters_map_open_list">Open list</string>
+    <string name="feature_filters_map_filters_not_selected">Not selected</string>
+    <string name="feature_filters_map_vehicles_in_access_dialog_title">To see vehicles only in
+        access, remove "Disabled reasons"
+    </string>
+    <string name="feature_filters_map_vehicles_in_rent_dialog_title">During "In rent" activation
+        you\'re not gonna see vehicles without rent
+    </string>
+    <string name="feature_filters_map_additional_info_dialog_title">Vehicle conditions regardless of
+        access or rent
+    </string>
+    <string name="feature_filters_map_nothing_found">Nothing found,
+        \ncheck the correctness of the input
+    </string>
+    <string name="feature_filters_map_its_clear">It\'s clear</string>
+    <string name="feature_filters_map_only_outside_the_city">Only outside the city</string>
+    <string name="feature_filters_map_vehicles_outside_the_city_dialog">Only vehicles outside the
+        tariff zone, which may not coincide with the rental zone
+    </string>
+    <string name="feature_filters_map_dialog_button_apply">Apply</string>
+    <string name="feature_filters_map_error">Errors</string>
+    <string name="feature_filters_map_error_placeholder">Error name</string>
+    <string name="feature_filters_map_only_without_rent_title">Only without rent</string>
+    <string name="feature_filters_map_only_without_rent_subtitle">Time since the last rental
+    </string>
+
+    <!-- Feature Main !-->
+    <string name="feature_main_shift_was_ended">The shift was automatically finished</string>
+    <string name="feature_main_shift_warning">Make sure your shift is active</string>
+
+    <!-- Feature Home !-->
+    <string name="feature_home_main">Main</string>
+    <string name="feature_home_my_balance">My balance</string>
+    <string name="feature_home_my_balance_amount">%s ₽</string>
+    <string name="feature_home_alarms">Alarms</string>
+    <string name="feature_home_rent">Rents</string>
+    <string name="feature_home_end_of_shift">End of shift, thanks for your work! &#128578;</string>
+    <string name="feature_home_close_shift">Finish the shift?</string>
+    <string name="feature_home_close_shift_description">This action cannot be undone</string>
+    <string name="feature_home_title_completed_tasks">Completed tasks</string>
+    <string name="feature_home_driver">Driver</string>
+    <string name="feature_home_battery_driver">Charger</string>
+    <string name="feature_home_senior_battery_driver">Senior Charger</string>
+    <string name="feature_home_scout">Scout</string>
+    <string name="feature_home_start_shift">Start shift</string>
+    <string name="feature_home_active_shift_exception">Failed to load shift</string>
+    <string name="feature_home_calendar_no_data_for_active_shift">The report will be generated
+        at the end of the shift
+    </string>
+    <string name="feature_home_calendar_no_shifts_found">There were no active shifts this day
+    </string>
+    <string name="feature_home_calendar_period_no_shifts_found">There were no active shifts during
+        this period
+    </string>
+    <string name="feature_home_calendar_load_exception">Failed to load data, please try again
+    </string>
+    <string name="feature_home_calendar_tasks_total">Total replacements</string>
+    <string name="feature_home_statistic_movements">Total movements</string>
+    <string name="feature_home_calendar_tasks">By tasks</string>
+    <string name="feature_home_calendar_shift_length">%1$d h %2$d min</string>
+    <string name="feature_home_calendar_out_of_tasks">Not by tasks</string>
+    <string name="feature_home_calendar_horizontal">Day</string>
+    <string name="feature_home_calendar_period">Period</string>
+    <string name="feature_home_transport_is_unknown">Transport not specified</string>
+    <string name="feature_home_instructions">Instructions</string>
+    <string name="feature_home_about_app">About app</string>
+    <string name="feature_home_about_app_name">ST Service</string>
+    <string name="feature_home_about_app_version">Version %s</string>
+
+    <!-- Feature Last order !-->
+    <string name="feature_last_order_coordinates">Coordinates</string>
+    <string name="feature_last_order_parking_space">Parking space</string>
+    <string name="feature_last_order_location_copied">Copied</string>
+    <string name="feature_last_order_last_rental">Last rental</string>
+    <string name="feature_last_order_rental_is_finished">Finished</string>
+    <string name="feature_last_order_show_track">Show the track</string>
+    <string name="feature_last_order_failed_load_warning">The data could not be uploaded,\nplease
+        try again
+    </string>
+    <string name="feature_last_order_empty_photos">There are no photos\nfor the last rental</string>
+
+    <!-- Feature Map track !-->
+    <string name="feature_map_track_geo_client">Client geo</string>
+    <string name="feature_map_track_see_comments">See comments</string>
+    <string name="feature_map_track_last_order_time">Last order time</string>
+    <string name="feature_map_track_get_directions">Get directions</string>
+    <string name="feature_map_track_track">Track</string>
+    <string name="feature_map_track_start_time_title">Start time</string>
+    <string name="feature_map_track_plus_1_hour">+1 hour</string>
+    <string name="feature_map_track_plus_2_hours">+2 hours</string>
+    <string name="feature_map_track_plus_12_hours">+12 hours</string>
+    <string name="feature_map_track_plus_24_hours">+24 hours</string>
+    <string name="feature_map_track_choose_time">Choose time</string>
+    <string name="feature_map_track_choose_date">Choose date</string>
+    <string name="feature_map_track_copied">Сopied!</string>
+    <string name="feature_map_track_no_data">No data</string>
+    <string name="feature_map_track_dialog_button_apply">Apply</string>
+
+    <!-- Feature Multi list !-->
+    <string name="feature_multi_list_vehicle_management_button">Vehicle management</string>
+    <string name="feature_multi_list_title">Multi List (%s)</string>
+    <string name="feature_multi_list_clear_button">Clear list</string>
+    <string name="feature_multi_list_choosen_label">Chosen %s from %s</string>
+    <string name="feature_multi_list_reset_button">Reset</string>
+    <string name="feature_multi_list_choose_all_button">Choose all</string>
+    <string name="feature_multi_list_share_menu_item">Share</string>
+    <string name="feature_multi_list_create_task_menu_item">Create task</string>
+    <string name="feature_multi_list_show_map_menu_item">Show on map</string>
+    <string name="feature_multi_list_clear_dialog_title">All selected vehicles will be cleared
+    </string>
+    <string name="feature_multi_list_open_multi_scan_button">Open multiscan</string>
+    <string name="feature_multi_list_empty_title">There are no\nvehicles in the list</string>
+    <string name="feature_multi_list_onboarding_toast">Multi list of vehicles\nis stored for 24
+        hours
+    </string>
+    <string name="feature_multi_list_management_completed_toast">Changes applied\nto %s vehicles
+    </string>
+    <string name="feature_multi_list_management_title">Management of %s vehicles</string>
+    <string name="feature_multi_list_management_update_coordinates">Update coordinates</string>
+    <string name="feature_multi_list_management_apply_button">Apply</string>
+    <string name="feature_multi_list_management_error_change_service_center">"The service center has
+        not changed for vehicle %s"
+    </string>
+    <string name="feature_multi_list_management_error_managing_toast">Error. Try\nagain</string>
+    <string name="feature_multi_list_management_error_title_toast">"Error %s"</string>
+    <string name="feature_multi_list_management_accept_to_service_center_or_power_center">Accept in
+        SC or PC
+    </string>
+    <string name="feature_multi_list_choose_management_flow_in_access_title">In access</string>
+    <string name="feature_multi_list_choose_management_flow_service_rent_title">Service rent
+    </string>
+    <string name="feature_multi_list_choose_management_flow_onboarding_toast">Actions only\nfor
+        selected vehicles
+    </string>
+    <string name="feature_multi_list_choose_management_in_access_first_label">Transport will become
+        available
+    </string>
+    <string name="feature_multi_list_choose_management_in_access_second_label">Scooters will be
+        turned off
+    </string>
+    <string name="feature_multi_list_choose_management_in_access_third_label">Service mode is
+        disabled
+    </string>
+    <string name="feature_multi_list_choose_management_service_rent_first_label">Proceed to move
+    </string>
+    <string name="feature_multi_list_choose_management_service_rent_second_label">Scooters will be
+        included
+    </string>
+    <string name="feature_multi_list_choose_management_service_rent_third_label">Service mode is
+        enabled
+    </string>
+    <string name="feature_multi_list_choose_management_flow_other">Other</string>
+    <string name="feature_multi_list_manual_management_flow_open_lock">Open lock</string>
+    <string name="feature_multi_list_manual_management_flow_disabled_reason_title">Change status
+    </string>
+    <string name="feature_multi_list_manual_management_flow_change_vendor_title">Change vendor
+    </string>
+    <string name="feature_multi_list_manual_management_flow_toggle_on">On</string>
+    <string name="feature_multi_list_manual_management_flow_toggle_off">Off</string>
+    <string name="feature_multi_list_manual_management_flow_open_lock_dialog_title">Open lock?
+    </string>
+    <string name="feature_multi_list_manual_management_flow_open_deck_dialog_title">Open deck?
+    </string>
+    <string name="feature_multi_list_manual_management_flow_update_coordinates_dialog_title">The
+        coordinates of the vehicle will\nbe changed to yours!
+    </string>
+    <string name="feature_multi_list_manual_management_flow_service_mode_title">Service mode
+    </string>
+    <string name="feature_multi_list_manual_management_flow_working_mode_title">Transport</string>
+    <string name="feature_multi_list_share_total">Total: %s</string>
+    <string name="feature_multi_list_share_qr_system_title">Share QR</string>
+    <string name="feature_multi_list_share_all_system_title">Share</string>
+    <string name="feature_multi_list_share_vehicles_list_title">Vehicles list (%s)</string>
+    <string name="feature_multi_list_share_overdue_title">The QR code for the vehicle\nlist is valid
+        for 24 hours
+    </string>
+    <string name="feature_multi_list_share_qr_title">QR of vehicles list</string>
+    <string name="feature_multi_list_share_qr_error_title">The QR code did not load. Try again or
+        send just the list.
+    </string>
+    <string name="feature_multi_list_share_retry_button">Try one more time</string>
+    <string name="feature_multi_list_share_send_button">Share</string>
+    <string name="feature_multi_list_share_app_bar">Share</string>
+    <string name="feature_map_multi_list_on_map_vehicle">There are %s vehicles out of %s on the
+        map
+    </string>
+    <string name="feature_multi_list_manual_management_to_sc">Accept the vehicle to the service
+        center
+    </string>
+    <string name="feature_multi_list_manual_management_from_sc">Give the vehicle to the fields
+    </string>
+    <string name="feature_multi_list_manual_management_charging_station">Charging station</string>
+    <string name="feature_multi_list_manual_management_division_title">Divisions</string>
+    <string name="feature_multi_list_manual_management_division_info">The SC is linked to
+        several\ndivisions, choose one\nthat is assigned to the vehicle
+    </string>
+    <string name="feature_multi_list_manual_management_storage">Storage</string>
+    <string name="feature_multi_list_manual_management_list_sc">The list of SCs is part of the
+        company’s organizational structure
+    </string>
+    <string name="feature_multi_list_manual_management_list_sc_hint">To update your organizational
+        structure, contact support
+    </string>
+    <string name="feature_multi_list_cannot_use_this_transport">You cannot operate with %s</string>
+    <string name="feature_multi_list_cannot_transport_out_of_service">Vehicle %s withdrawn - contact support</string>
+    <string name="feature_multi_list_cannot_transport_in_order">Transport %s in order
+    </string>
+    <string name="feature_multi_list_cannot_transports_were_removed">%s unavailable and were removed
+        from the list
+    </string>
+    <string name="feature_multi_list_sheet_clear">Clear</string>
+    <string name="feature_multi_list_sheet_management">Management</string>
+
+    <!-- Feature Profile !-->
+    <string name="feature_profile_main_vendor">Main vendor</string>
+    <string name="feature_profile_several_vendors">Vendors</string>
+    <string name="feature_profile_name_of_the_vendor">Name of the vendor</string>
+    <string name="feature_profile_profile">Profile</string>
+    <string name="feature_profile_city">Location</string>
+    <string name="feature_profile_name_of_the_city">Name of the city</string>
+    <string name="feature_profile_support">Support</string>
+    <string name="feature_profile_profile_exception">Failed to load\nprofile data</string>
+    <string name="feature_profile_another">Another</string>
+    <string name="feature_profile_logout">Logout</string>
+    <string name="feature_profile_policy">Privacy policy</string>
+    <string name="feature_profile_organization_title">Organization</string>
+    <string name="feature_profile_name_of_the_organization">Name of the organization</string>
+    <string name="feature_profile_not_selected">Not selected</string>
+    <string name="feature_profile_stay">Cancel</string>
+    <string name="feature_profile_exit">Yes</string>
+    <string name="feature_profile_logout_title">Log out from the account?</string>
+    <string name="feature_profile_logout_description">Application access\nwill be limited</string>
+
+    <!--  Period Calendar  -->
+    <string name="feature_home_period_calendar_title">Select reporting period</string>
+    <string name="feature_home_period_calendar_period_is_not_selected">Reporting period is not
+        selected
+    </string>
+    <string name="feature_home_period_calendar_period">%1$s–%2$s (%3$s d)</string>
+    <string name="feature_home_period_calendar_period_partly">%1$s – not selected</string>
+    <string name="feature_home_period_calendar_period_period_overflow_exception">The period cannot
+        be more than a month
+    </string>
+    <string name="feature_home_period_calendar_apply">Apply</string>
+    <string name="feature_home_period_calendar_reset">Reset</string>
+
+    <!-- Feature QR sharing !-->
+    <string name="feature_qr_sharing_generate_qr">Generate QR Code</string>
+    <string name="feature_qr_sharing_generate_a_qr">Generate a QR code</string>
+    <string name="feature_qr_sharing_take_time">This may take some time.
+        \nPlease wait
+    </string>
+    <string name="feature_qr_sharing_scan_or_send">Scan or send
+        \nthis QR code to receive
+        \ndata
+    </string>
+    <string name="feature_qr_sharing_share_qr">Share</string>
+    <string name="feature_qr_sharing_evin_not_specified">eVin not specified</string>
+    <string name="feature_qr_sharing_saved_on_device">Saved on device</string>
+    <string name="feature_qr_sharing_profile">Profile</string>
+    <string name="feature_qr_sharing_missing_vendors">Missing vendors</string>
+    <string name="feature_qr_sharing_wrong_list">Wrong list</string>
+    <string name="feature_qr_sharing_missing_vendors_text">The selected vendors do not match the
+        vendors in the QR code. \n
+        Missing vendors: %s
+    </string>
+    <string name="feature_qr_sharing_information">Information</string>
+    <string name="feature_qr_sharing_creator">Creator: %s</string>
+    <string name="feature_qr_sharing_date">The date: %s</string>
+    <string name="feature_qr_sharing_data_count">Amount: %d</string>
+    <string name="feature_qr_sharing_button_apply">Apply</string>
+
+    <!-- Feature scanner !-->
+    <string name="feature_scanner_vehicle_not_found">Vehicle not found</string>
+    <string name="feature_scanner_wrong_qr_code">Wrong QR code</string>
+
+    <!-- Feature search vehicle !-->
+    <string name="feature_search_vehicle_hint">№ Vehicle</string>
+
+    <!-- Feature start shift !-->
+    <string name="feature_start_shift_error_organization_not_selected">No organization
+        selected.\nSelect an organization in your profile
+    </string>
+    <string name="feature_start_shift_error_stater_shift">Failed to start shift</string>
+    <string name="feature_start_shift_choose_position">Choose a position</string>
+    <string name="feature_start_shift_organization_not_selected">Organization not selected</string>
+    <string name="feature_start_shift_start">Start</string>
+    <string name="feature_start_shift_select">Select %s</string>
+    <string name="feature_start_shift_tech_zones">Tech zones</string>
+    <string name="feature_start_shift_roles">Roles</string>
+    <string name="feature_start_shift_tech_zones_title">Tech zone</string>
+    <string name="feature_start_shift_tech_zones_title_placeholder">Tech zone name</string>
+    <string name="feature_start_shift_select_transport">Select transport</string>
+    <string name="feature_start_shift_apply">Apply</string>
+
+    <!-- Feature rent !-->
+    <string name="feature_top_bar_rents">Rents (%d)</string>
+    <string name="feature_order_status_na">NA</string>
+    <string name="feature_order_status_booking">Booking</string>
+    <string name="feature_order_status_ordering">Ordering</string>
+    <string name="feature_order_status_ordered">Ordered</string>
+    <string name="feature_order_status_waiting">Waiting</string>
+    <string name="feature_order_status_closing">Closing</string>
+
+    <!-- Feature super scanner !-->
+    <string name="feature_super_scanner_on_map">On map</string>
+    <string name="feature_super_scanner_vehicle_list">Upload via QR</string>
+    <string name="feature_super_scanner_tasks">Tasks</string>
+    <string name="feature_super_scanner_vehicle">Vehicle</string>
+    <string name="feature_super_scanner_multi_scanner">Multiscan</string>
+    <string name="feature_super_scanner_no_task_battery">Vehicle does not require battery
+        replacement
+    </string>
+    <string name="feature_super_scanner_list_not_found">List not found</string>
+    <string name="feature_super_scanner_vehicle_not_found">Vehicle not found</string>
+    <string name="feature_super_scanner_wrong_mode">Scan this code using "Transport" mode</string>
+    <string name="feature_super_scanner_vehicle_is_ordered">Vehicle for rent</string>
+    <string name="feature_super_scanner_mutlilist_overflow">Vehicle is not added\nMax amount of
+        vehicles in multilist has been reached
+    </string>
+    <string name="feature_super_scanner_no_vendors_selected">No vendors selected: %1$s</string>
+    <string name="feature_super_scanner_information_of_list">Information on the list of vehicles
+    </string>
+    <string name="feature_super_scanner_creator">Creator</string>
+    <string name="feature_super_scanner_date">Date</string>
+    <string name="feature_super_scanner_amount">Amount</string>
+    <string name="feature_super_scanner_apply">Apply</string>
+    <string name="feature_super_scanner_evin">eVin</string>
+    <string name="feature_super_scanner_wrong_evin">Wrong evin</string>
+    <string name="feature_super_scanner_choose_task_type_button">Close</string>
+    <string name="feature_super_scanner_choose_task_type_title">There are 2 transport tasks</string>
+    <string name="feature_super_scanner_choose_task_type_move_sc">Move to SC</string>
+    <string name="feature_super_scanner_choose_task_type_pickup">Move to parking</string>
+    <string name="feature_super_scanner_choose_task_type_change_battery">Change battery</string>
+    <string name="feature_super_scanner_task_sheet_title_pickup">Move to parking</string>
+    <string name="feature_super_scanner_task_sheet_title_move_to_sc">Move to SC</string>
+    <string name="feature_super_scanner_task_sheet_button">Take</string>
+    <string name="feature_super_scanner_task_sheet_loading">Loading</string>
+    <string name="feature_super_scanner_task_success_added_sheet_title">%s ready for loading</string>
+    <string name="feature_super_scanner_task_success_added_first_title">Moving</string>
+    <string name="feature_super_scanner_task_success_added_first_body">Transport status has changed</string>
+    <string name="feature_super_scanner_task_success_added_second_title">Scooter is on</string>
+    <string name="feature_super_scanner_task_success_added_second_body">Wheels unlocked</string>
+    <string name="feature_super_scanner_task_success_added_third_title">Service mode enabled</string>
+    <string name="feature_super_scanner_task_success_added_third_body">Can be moved</string>
+    <string name="feature_super_scanner_task_success_added_button">Great</string>
+    <string name="feature_super_scanner_no_active_tasks">There are no active tasks for transport</string>
+
+    <!-- Feature task battery !-->
+
+    <!-- Feature update screen !-->
+    <string name="feature_update_screen_application">Shall we update the application?</string>
+    <string name="feature_update_screen_application_description">Your version of the app\nis no
+        longer supported.\nTo continue using\n— update the application
+    </string>
+    <string name="feature_update_screen_update">Update</string>
+
+    <!-- Feature vehicle alert !-->
+    <string name="feature_vehicle_alert_report_a_problem_tech_condition">Transport needs repair
+    </string>
+    <string name="feature_vehicle_alert_status_repair">The vehicle will be marked as broken</string>
+    <string name="feature_vehicle_alert_report_a_problem_search">Can\'t find vehicle</string>
+    <string name="feature_vehicle_alert_status_alarm">The vehicle will be marked as lost</string>
+    <string name="feature_vehicle_alert_problem">Problem</string>
+    <string name="feature_vehicle_alert_brakes">Brakes</string>
+    <string name="feature_vehicle_alert_not_responding">Not responding</string>
+    <string name="feature_vehicle_alert_footrest">Footrest</string>
+    <string name="feature_vehicle_alert_vehicle_wheel">Wheel</string>
+    <string name="feature_vehicle_alert_another">Another</string>
+    <string name="feature_vehicle_alert_need_repair">Need repair</string>
+    <string name="feature_vehicle_alert_mass_disabled">Remove from access</string>
+    <string name="feature_vehicle_alert_further">Further</string>
+
+    <!-- Feature vehicle !-->
+    <string name="feature_vehicle_city">City</string>
+    <string name="feature_vehicle_eVin">eVin</string>
+    <string name="feature_vehicle_set_eVin">Set eVin</string>
+    <string name="feature_vehicle_about_transport">About transport</string>
+    <string name="feature_vehicle_business_status">Business status</string>
+    <string name="feature_vehicle_lock_code">Lock Code</string>
+    <string name="feature_vehicle_code">Code</string>
+    <string name="feature_vehicle_charge">Charge</string>
+    <string name="feature_vehicle_imei">IMEI</string>
+    <string name="feature_vehicle_identifier">Identifier</string>
+    <string name="feature_vehicle_tracker_driver">Tracker driver</string>
+    <string name="feature_vehicle_operator_status">Operator status</string>
+    <string name="feature_vehicle_number">Number</string>
+    <string name="feature_vehicle_iccid">ICCID</string>
+    <string name="feature_vehicle_deca">Deca</string>
+    <string name="feature_vehicle_evin">eVin</string>
+    <string name="feature_vehicle_scan_datamatrix">Scan the DataMatrix code or enter the code
+        manually
+    </string>
+    <string name="feature_vehicle_warning_add_evin">Please note that eVIN can only be changed once
+    </string>
+    <string name="feature_vehicle_evin_length_error">eVin has to be 12 symbols long</string>
+    <string name="feature_vehicle_evin_copied">eVin copied</string>
+    <string name="feature_vehicle_comments">Comments</string>
+    <string name="feature_vehicle_comment">Comment</string>
+    <string name="feature_vehicle_enter_comment">Enter comment</string>
+    <string name="feature_vehicle_events">Events</string>
+    <string name="feature_vehicle_enter_event">Enter event</string>
+    <string name="feature_vehicle_open_deck">Open Deck</string>
+    <string name="feature_vehicle_close_deck">Close Deck</string>
+    <string name="feature_vehicle_change_code">Change Code</string>
+    <string name="feature_vehicle_refresh_coordinates">Refresh coordinate</string>
+    <string name="feature_vehicle_code_lock">Not available.\nCode lock</string>
+    <string name="feature_vehicle_no_deck">Not available.\nNo Deck</string>
+    <string name="feature_vehicle_no_lock">Not available.\nNo Lock</string>
+    <string name="feature_vehicle_is_order">Not available.\nVehicle for rent</string>
+    <string name="feature_vehicle_not_available">No available.</string>
+    <string name="feature_vehicle_disable_vehicle">Vehicle is off</string>
+    <string name="feature_vehicle_enable_vehicle">Vehicle is on</string>
+    <string name="feature_vehicle_control_vehicle">Vehicle control</string>
+    <string name="feature_vehicle_dialog_wheels_unlocked">After turning on the wheels
+        \nwill be unlocked
+    </string>
+    <string name="feature_vehicle_dialog_wheels_locked">After turning off the wheels
+        \nwill be blocked
+    </string>
+    <string name="feature_vehicle_open_lock">Open Lock</string>
+    <string name="feature_vehicle_end_rent">End rent?</string>
+    <string name="feature_vehicle_lock_opened">Lock is opened</string>
+    <string name="feature_vehicle_enable_transport">Enable transport</string>
+    <string name="feature_vehicle_disable_transport">Disable Transport</string>
+    <string name="feature_vehicle_enabled_service_mode">Service mode enabled</string>
+    <string name="feature_vehicle_disabled_service_mode">Service mode disabled</string>
+    <string name="feature_vehicle_vehicle_card_in_rent">Rent</string>
+    <string name="feature_vehicle_vehicle_card_in_access">In access</string>
+    <string name="feature_vehicle_vehicle_card_registered">Registered</string>
+    <string name="feature_vehicle_enable_service">Enable service</string>
+    <string name="feature_vehicle_disable_service">Disable service</string>
+    <string name="feature_vehicle_create_comment">Create comment</string>
+    <string name="feature_vehicle_request_was_sent">Request was sent</string>
+    <string name="feature_vehicle_location_has_been_updated">Location has been updated</string>
+    <string name="feature_vehicle_rent_request_sent">Request to complete rent has been sent</string>
+    <string name="feature_vehicle_none_code">None</string>
+    <string name="feature_vehicle_electro_code">Electro</string>
+    <string name="feature_vehicle_correct_code_length">Code should have 4 numbers</string>
+    <string name="feature_vehicle_dialog_enable_scooter">Enable scooter?</string>
+    <string name="feature_vehicle_dialog_disable_scooter">Disable scooter?</string>
+    <string name="feature_vehicle_dialog_enable_bike">Enable bike?</string>
+    <string name="feature_vehicle_dialog_disable_bike">Disable bike?</string>
+    <string name="feature_vehicle_dialog_enable_service">Enable service mode?</string>
+    <string name="feature_vehicle_dialog_disable_service">Disable service mode?</string>
+    <string name="feature_vehicle_dialog_open_deck">Open deck?</string>
+    <string name="feature_vehicle_dialog_update_location">Update location?</string>
+    <string name="feature_vehicle_dialog_update_location_description">After updating the
+        coordinates\nwill be changed to yours
+    </string>
+    <string name="feature_vehicle_vehicle_info_bottom_button">Vehicle management</string>
+    <string name="feature_vehicle_vehicle_remote_control">Remote control</string>
+    <string name="feature_vehicle_vehicle_info_signal_exists">Online</string>
+    <string name="feature_vehicle_vehicle_info_signal_does_not_exists">Offline</string>
+    <string name="feature_vehicle_vehicle_info_gps_updated">Updated</string>
+    <string name="feature_vehicle_vehicle_info_gps">GPS</string>
+    <string name="feature_vehicle_vehicle_info_no_gps">No GPS</string>
+    <string name="feature_vehicle_vehicle_info_on">On</string>
+    <string name="feature_vehicle_vehicle_info_off">Off</string>
+    <string name="feature_vehicle_vehicle_info_locked">Locked</string>
+    <string name="feature_vehicle_vehicle_info_unlocked">Unlocked</string>
+    <string name="feature_vehicle_vehicle_info_on_charge">On charge</string>
+    <string name="feature_vehicle_vehicle_info_fact_charge">Actual</string>
+    <string name="feature_vehicle_vehicle_info_client">Client</string>
+    <string name="feature_vehicle_vehicle_info_closed">Locked</string>
+    <string name="feature_vehicle_vehicle_info_opened">Opened</string>
+    <string name="feature_vehicle_vehicle_info_lock">Lock</string>
+    <string name="feature_vehicle_vehicle_info_no_events">No events</string>
+    <string name="feature_vehicle_vehicle_info_events">Events</string>
+    <string name="feature_vehicle_vehicle_info_about_title">About vehicle</string>
+    <string name="feature_vehicle_vehicle_info_about_evin_empty">eVin is not specified</string>
+    <string name="feature_vehicle_vehicle_info_brand">Brand</string>
+    <string name="feature_vehicle_vehicle_info_company">Company</string>
+    <string name="feature_vehicle_vehicle_info_division">Division</string>
+    <string name="feature_vehicle_vehicle_info_order_start">Start</string>
+    <string name="feature_vehicle_vehicle_info_order_finish">Finish</string>
+    <string name="feature_vehicle_vehicle_info_rent">Rent</string>
+    <string name="feature_vehicle_vehicle_info_parking">Parking</string>
+    <string name="feature_vehicle_vehicle_info_rent_status_active">Active</string>
+    <string name="feature_vehicle_vehicle_info_rent_status_finished">Finished</string>
+    <string name="feature_vehicle_vehicle_info_gallery">Gallery</string>
+    <string name="feature_vehicle_vehicle_info_empty_gallery">There are no photos</string>
+    <string name="feature_vehicle_vehicle_info_tasks_active">Active tasks - %s</string>
+    <string name="feature_vehicle_vehicle_info_no_active_tasks">No active tasks</string>
+    <string name="feature_vehicle_vehicle_info_tasks_title">Tasks</string>
+    <string name="feature_vehicle_vehicle_info_start_active_time">Active from %s</string>
+    <string name="feature_vehicle_vehicle_info_active_minutes">%s mins</string>
+    <string name="feature_vehicle_vehicle_info_last_rental">Last rental</string>
+    <string name="feature_vehicle_vehicle_info_no_last_rental">There were no rental</string>
+    <string name="feature_vehicle_vehicle_info_comments_title">Comments</string>
+    <string name="feature_vehicle_vehicle_info_no_comments">No comments</string>
+    <string name="feature_vehicle_vehicle_info_lock_type">Type</string>
+    <string name="feature_vehicle_vehicle_info_lock_code">Code</string>
+    <string name="feature_vehicle_vehicle_info_no_lock">No lock</string>
+    <string name="feature_vehicle_vehicle_info_battery">Battery</string>
+    <string name="feature_vehicle_vehicle_info_battery_charge">Charge</string>
+    <string name="feature_vehicle_vehicle_info_battery_charge_for_client">For client</string>
+    <string name="feature_vehicle_vehicle_info_battery_type">Type</string>
+    <string name="feature_vehicle_vehicle_info_serial">Serial</string>
+    <string name="feature_vehicle_vehicle_info_tracker">Tracker</string>
+    <string name="feature_vehicle_vehicle_info_main_tracker">Main tracker</string>
+    <string name="feature_vehicle_vehicle_info_sim">SIM</string>
+    <string name="feature_vehicle_vehicle_info_coordinates">Coordinates</string>
+    <string name="feature_vehicle_vehicle_info_context_menu_qr">QR-code</string>
+    <string name="feature_vehicle_vehicle_info_context_menu_route">Route</string>
+    <string name="feature_vehicle_vehicle_info_success_added_to_multilist">Vehicle added to
+        multilist
+    </string>
+    <string name="feature_vehicle_vehicle_info_success_deleted_from_multilist">Vehicle deleted from
+        multilist
+    </string>
+    <string name="feature_vehicle_vendor">Vendor</string>
+    <string name="feature_vehicle_card_sim">SIM card</string>
+    <string name="feature_vehicle_operator">Operator</string>
+    <string name="feature_vehicle_imsi">IMSI</string>
+    <string name="feature_vehicle_copied">Copied</string>
+    <string name="feature_vehicle_copied_ts_number">Vehicle number copied</string>
+    <string name="feature_vehicle_no_access_vendor">No access to vendor %s</string>
+    <string name="feature_vehicle_info_sim_status_unknown">Undefined</string>
+    <string name="feature_vehicle_info_sim_status_freewill_blocked">Freewill-blocking</string>
+    <string name="feature_vehicle_info_sim_status_purged">Removed</string>
+    <string name="feature_vehicle_info_sim_status_activation_ready">Ready to activate</string>
+    <string name="feature_vehicle_info_sim_status_deactivated">Deactivated</string>
+    <string name="feature_vehicle_info_sim_status_global_intransit">Global intransit</string>
+    <string name="feature_vehicle_info_sim_status_global_transferred">Global transferred</string>
+    <string name="feature_vehicle_info_sim_status_inventory">Inventory</string>
+    <string name="feature_vehicle_info_sim_status_replaced">Replaced</string>
+    <string name="feature_vehicle_info_sim_status_retired">Decommissioned</string>
+    <string name="feature_vehicle_info_sim_status_test_ready">Test mode</string>
+    <string name="feature_vehicle_info_sim_status_trial">Trial</string>
+    <string name="feature_vehicle_info_sim_status_future_block">Future block</string>
+    <string name="feature_vehicle_info_sim_status_future_unblock">Future unblock</string>
+    <string name="feature_vehicle_info_sim_status_finance_block">Financial block</string>
+    <string name="feature_vehicle_info_sim_status_data_block">Data block</string>
+    <string name="feature_vehicle_info_sim_status_temporary_block">Temporarily closed</string>
+    <string name="feature_vehicle_info_sim_status_waiting_check">Waiting to check</string>
+    <string name="feature_vehicle_info_service_status_default">Deregistered</string>
+    <string name="feature_vehicle_info_service_status_registered">Registered</string>
+    <string name="feature_vehicle_info_service_status_awaiting_delivery">Waiting delivery</string>
+    <string name="feature_vehicle_info_service_status_written_off">Out of service</string>
+    <string name="feature_vehicle_info_service_status_sold">Sold</string>
+    <string name="feature_vehicle_info_service_status_not_recoverable">Not Recoverable</string>
+    <string name="feature_vehicle_info_service_status_info">Changing the business status is not
+        available. \nYou can return to the account through support
+    </string>
+    <string name="feature_vehicle_transport_in_order">In order</string>
+    <string name="feature_vehicle_info_service_status_deregistered">The vehicle has been
+        deregistered
+    </string>
+    <string name="feature_vehicle_info_service_status_contact_support">Contact support to return the
+        vehicle to registration
+    </string>
+    <string name="feature_vehicle_info_error_placeholder">Vehicle error</string>
+    <string name="feature_vehicle_manage_access">Manage access</string>
+    <string name="feature_vehicle_its_clear">It\'s clear</string>
+    <string name="feature_vehicle_scooter_in_access">Scooter in access</string>
+    <string name="feature_vehicle_bike_in_access">Bike in access</string>
+    <string name="feature_vehicle_info_track">Track</string>
+    <string name="feature_vehicle_substatus">Substatus</string>
+    <string name="feature_vehicle_reasons_for_withdrawal_from_access">Reasons for withdrawal from
+        access
+    </string>
+    <string name="feature_vehicle_state">State</string>
+    <string name="feature_vehicle_enabled">Enabled</string>
+    <string name="feature_vehicle_disabled">Disabled</string>
+    <string name="feature_vehicle_disabled_from_access">Disabled from access</string>
+    <string name="feature_vehicle_service_rental">Service rental</string>
+    <string name="feature_vehicle_scooter_in_moving">Scooter in "Moving"</string>
+    <string name="feature_vehicle_scooter_in_access_toast">Scooter "In access"</string>
+    <string name="feature_vehicle_data_transfer_error">Data transfer error</string>
+    <string name="feature_vehicle_save">Save</string>
+    <string name="feature_vehicle_lock_none">None</string>
+    <string name="feature_vehicle_lock_carbine">Carbine</string>
+    <string name="feature_vehicle_lock_electro">Electro</string>
+    <string name="feature_vehicle_lock_electronic">Electronic</string>
+    <string name="feature_vehicle_lock_twoinone">Electronic 2-in-1</string>
+    <string name="feature_vehicle_lock_unknown">Unknown</string>
+    <string name="feature_vehicle_sim_active">Active</string>
+    <string name="feature_vehicle_sim_blocked">Blocked</string>
+    <string name="feature_vehicle_sim_conservation">Conservation</string>
+    <string name="feature_vehicle_sim_reserved">Reserved</string>
+    <string name="feature_vehicle_sim_stolen">Stolen</string>
+    <string name="feature_vehicle_sim_unknown">Unknown</string>
+    <string name="feature_vehicle_not_enough_rights">Not enough rights</string>
+    <string name="feature_vehicle_not_specified">Not specified</string>
+    <string name="feature_vehicle_task_card_no_photo">No photos</string>
+    <string name="feature_vehicle_card_service_mode">Service mode</string>
+    <string name="feature_vehicle_need_download">Download</string>
+    <string name="feature_vehicle_card_lock_open">The lock is open</string>
+    <string name="feature_vehicle_card_cancel_activity">Close active order</string>
+    <string name="feature_vehicle_in_access_control">In access</string>
+    <string name="feature_vehicle_repair_required">Repair required</string>
+    <string name="feature_vehicle_vehicle_card_registered">Registered</string>
+    <string name="feature_vehicle_manage_status_control">Manage status</string>
+
+    <!-- Feature Vehicle list !-->
+    <string name="feature_vehicle_list_vehicles_amount">%s Vehicles</string>
+    <string name="feature_vehicle_list_vehicle_selected_out_of_amount">Selected: %s / %s</string>
+    <string name="feature_vehicle_list_action">Action</string>
+    <string name="feature_vehicle_list_all_vehicles">All Vehicles</string>
+    <string name="feature_vehicle_list_is_loading">List is loading</string>
+    <string name="feature_vehicle_list_please_wait">Please wait</string>
+    <string name="feature_vehicle_list_choose_action">Choose action</string>
+    <string name="feature_vehicle_list_change_disabled_reason">Change disable reason</string>
+    <string name="feature_vehicle_list_create_task">Create task</string>
+    <string name="feature_vehicle_list_send_to_telegram">Send to Telegram</string>
+    <string name="feature_vehicle_list_send_to_telegram_total">Total:</string>
+    <string name="feature_vehicle_list_generate_qr">Generate QR Code</string>
+    <string name="feature_vehicle_list_number" translatable="false">%s</string>
+    <string name="feature_vehicle_list_max_vehicle_number">Reached out max amount of vehicles that
+        can be used
+    </string>
+    <string name="feature_vehicle_list_max_amount_reached">Reached out max amount</string>
+
+    <!-- Feature Vehicle list new !-->
+    <string name="feature_vehicle_list_new_vehicles_amount">%s Vehicles</string>
+    <string name="feature_vehicle_list_new_vehicle_selected_out_of_amount">Selected: %s / %s
+    </string>
+    <string name="feature_vehicle_list_new_action">Action</string>
+    <string name="feature_vehicle_list_new_all_vehicles">All Vehicles</string>
+    <string name="feature_vehicle_list_new_choose_action">Choose action</string>
+    <string name="feature_vehicle_list_new_change_disabled_reason">Change status</string>
+    <string name="feature_vehicle_list_new_create_task">Create task</string>
+    <string name="feature_vehicle_list_new_send_to_telegram">Send to Telegram</string>
+    <string name="feature_vehicle_list_new_send_to_telegram_total">Total:</string>
+    <string name="feature_vehicle_list_new_generate_qr">Generate QR Code</string>
+    <string name="feature_vehicle_list_new_number" translatable="false">%s</string>
+    <string name="feature_vehicle_list_new_max_vehicle_number">Reached out max amount of vehicles
+        that can be used
+    </string>
+    <string name="feature_vehicle_list_new_max_amount_reached">Reached out max amount</string>
+
+    <!-- Feature Vehicle manual search !-->
+    <string name="feature_vehicle_manual_search_hint_scooter_number" translatable="false">000-000
+    </string>
+    <string name="feature_vehicle_manual_search_hint_bicycle_number" translatable="false">
+        0000-0000
+    </string>
+    <string name="feature_vehicle_manual_search_title">Enter number</string>
+    <string name="feature_vehicle_manual_search_button">Search</string>
+    <string name="feature_vehicle_manual_search_scooter">Scooter</string>
+    <string name="feature_vehicle_manual_search_bike">Bike</string>
+    <string name="feature_vehicle_manual_search_vehicle_not_found">Vehicle receiving error</string>
+
+    <!-- Feature Vehicle tasks !-->
+    <string name="feature_vehicle_tasks_all">All</string>
+    <string name="feature_vehicle_tasks_complition">Completed</string>
+    <string name="feature_vehicle_tasks_not_complition">Not completed</string>
+    <string name="feature_vehicle_tasks_choose_works_err">Exceptions are not excluded without a
+        selection of work performed
+    </string>
+    <string name="feature_vehicle_tasks_completed_successfully">Task completed successfully</string>
+    <string name="feature_vehicle_tasks_created_successfully">Task created successfully</string>
+    <string name="feature_vehicle_tasks_description_empty_error">Descriptiopn can\'t be empty
+    </string>
+    <string name="feature_vehicle_tasks_create_title">Task creation</string>
+    <string name="feature_vehicle_tasks_create_comment_title">Description</string>
+    <string name="feature_vehicle_tasks_create_photo_title">Add a photo</string>
+    <string name="feature_vehicle_tasks_create_button">Create</string>
+    <string name="feature_vehicle_tasks_create_description_hint">Task description</string>
+    <string name="feature_vehicle_tasks_completion_title">Task completion</string>
+    <string name="feature_vehicle_tasks_vehicle_identifier_title">Vehicle number</string>
+    <string name="feature_vehicle_tasks_task_descriprion_title">Task description</string>
+    <string name="feature_vehicle_tasks_task_created_date_title">Task created date</string>
+    <string name="feature_vehicle_tasks_task_author_title">Task author</string>
+    <string name="feature_vehicle_tasks_task_employee_title">Task employee</string>
+    <string name="feature_vehicle_tasks_task_completion_date_title">Task completion date</string>
+    <string name="feature_vehicle_tasks_task_works_title">Works</string>
+    <string name="feature_vehicle_tasks_task_complete_button">Complete</string>
+    <string name="feature_vehicle_tasks_create_new_task_fab">Create task</string>
+    <string name="feature_vehicle_tasks_app_bar">Tasks %s</string>
+    <string name="feature_vehicle_tasks_alert_take_photo">Do you want to take a photo?</string>
+    <string name="feature_vehicle_tasks_photo">Photo</string>
+    <string name="feature_vehicle_tasks_skip">Skip</string>
+    <string name="feature_vehicle_tasks_not_specified">Not specified</string>
+    <string name="feature_vehicle_tasks_total">Total: %s</string>
+
+    <!-- Feature Block shift !-->
+    <string name="feature_block_shift_main_menu">Main</string>
+    <string name="feature_block_shift_sign_out">Sign out</string>
+    <string name="feature_block_shift_access_restricted">Application access is restricted</string>
+    <string name="feature_block_shift_access_forbidden">No rights</string>
+    <string name="feature_block_shift_access_forbidden_description">Contact your supervisor</string>
+    <string name="feature_block_shift_not_an_employee">You are not an employee of this service or
+        your request is not accepted yet
+    </string>
+    <string name="feature_block_shift_send_request">Send request</string>
+    <string name="feature_block_shift_no_active_shift">No active shift</string>
+    <string name="feature_block_shift_have_to_start_shift">Application access is restricted. Start
+        your shift to have an access
+    </string>
+    <string name="feature_block_shift_start">Start</string>
+    <string name="feature_block_shift_logout">Logout?</string>
+    <string name="feature_block_shift_logout_purpose">To change the account</string>
+    <string name="feature_block_shift_exit">Exit</string>
+    <string name="feature_block_shift_stay">Stay</string>
+
+    <!-- Feature Report !-->
+    <string name="feature_battery_replacement_report_replaces">Replacements</string>
+    <string name="feature_battery_replacement_report_show_replacemnts">Show all</string>
+    <string name="feature_battery_replacement_report_retry">Retry</string>
+    <string name="feature_report_detail_header">Report %s</string>
+    <string name="feature_report_detail_total_tasks">Payment tasks</string>
+    <string name="feature_report_detail_total_tasks">Payment tasks</string>
+    <string name="feature_report_detail_critical_tasks">Discharged</string>
+    <string name="feature_report_detail_veryhigh_tasks">Low charge</string>
+    <string name="feature_report_detail_high_tasks">Draining</string>
+    <string name="feature_report_detail_normal_tasks">Available</string>
+    <string name="feature_report_detail_free_tasks">Not by tasks</string>
+    <string name="feature_battery_replacement_report_header">All replacements</string>
+    <string name="feature_battery_replacement_report_success">Replaced</string>
+    <string name="feature_battery_replacement_report_failed">Failed replacement</string>
+    <string name="feature_battery_replacement_report_not_on_task">Not on task</string>
+    <string name="feature_battery_replacement_report_in_progress">In progress</string>
+    <string name="feature_battery_replacement_report_not_accepted">Not accepted</string>
+    <string name="feature_battery_replacement_report_total">Total</string>
+    <string name="feature_battery_replacement_report_not_on_task_not_found">There wasn\'t one
+        uncredited substitution
+    </string>
+    <string name="feature_battery_replacement_report_tasks_not_found">There was no replacement
+    </string>
+    <string name="feature_battery_replacement_report_failed_load_data">Failed to load data, try
+        again
+    </string>
+    <string name="feature_battery_replacement_report_no_replacements">There was no replacements
+    </string>
+
+    <!--Feature Vehicle Status Filters !-->
+    <string name="feature_vehicle_status_filters_app_bar_title">Statuses</string>
+    <string name="feature_vehicle_status_filters_apply">Apply</string>
+    <string name="feature_vehicle_status_filters_selected">Selected %s</string>
+    <string name="feature_vehicle_status_filters_choose_all">Select all</string>
+    <string name="feature_vehicle_status_filters_reset">Reset</string>
+
+    <!-- Active Shift !-->
+    <string name="feature_active_shift_toolbar_title">Active shift</string>
+    <string name="feature_active_shift_finish_shift">Finish the shift</string>
+    <string name="feature_active_shift_data_exception">Failed to load data</string>
+    <string name="feature_active_shift_techzones_exception">Failed to load technical zones</string>
+    <string name="feature_active_shift_shift_data_exception">Failed to load shift data</string>
+    <string name="feature_active_shift_charger_replaces_exception">Failed to load replacement data
+    </string>
+    <string name="feature_active_shift_collected_vehicles">Collected Vehicles</string>
+    <string name="feature_active_shift_placed_vehicles">Exhibited vehicles</string>
+
+    <string name="feature_search_counter">Selected %s</string>
+    <string name="feature_search_range_counter">Selected %s out of %s</string>
+    <string name="feature_search_select_all">Select all</string>
+    <string name="feature_search_reset">Reset</string>
+    <string name="feature_search_more">More %s</string>
+    <string name="feature_search_less">Hide</string>
+    <string name="feature_search_not_found">Nothing found,\n
+        check the correctness of the input
+    </string>
+
+    <!-- About Vehicle !-->
+    <string name="feature_about_vehicle_header_orgstructure">Orgstructure</string>
+    <string name="feature_about_vehicle_header_accounting_information">Accounting information
+    </string>
+    <string name="feature_about_vehicle_header_branding">Branding</string>
+    <string name="feature_about_vehicle_header_equipment">Equipment</string>
+    <string name="feature_about_vehicle_header_lock">Lock</string>
+    <string name="feature_about_vehicle_header_battery">Battery</string>
+    <string name="feature_about_vehicle_header_tracker">Tracker</string>
+    <string name="feature_about_vehicle_header_gps">GPS</string>
+    <string name="feature_about_vehicle_header_sim">Sim-card</string>
+
+    <string name="feature_about_vehicle_orgstructure_company">Company</string>
+    <string name="feature_about_vehicle_orgstructure_division">Division</string>
+    <string name="feature_about_vehicle_orgstructure_branding">Brand</string>
+    <string name="feature_about_vehicle_orgstructure_payment_code">Payment code (vendor)</string>
+    <string name="feature_about_vehicle_orgstructure_home_city">City by GPS</string>
+
+    <string name="feature_about_vehicle_accounting_information_eVin">eVin</string>
+    <string name="feature_about_vehicle_accounting_information_accounting_status">Accounting
+        status
+    </string>
+    <string name="feature_about_vehicle_accounting_information_model">Model</string>
+    <string name="feature_about_vehicle_accounting_information_qr_number">QR-number</string>
+    <string name="feature_about_vehicle_accounting_information_serial">Serial</string>
+
+    <string name="feature_about_vehicle_branding_wheel">Wheel</string>
+    <string name="feature_about_vehicle_branding_stand">Stand</string>
+    <string name="feature_about_vehicle_branding_deca">Deca</string>
+    <string name="feature_about_vehicle_branding_stickers">Stickers</string>
+    <string name="feature_about_vehicle_branding_numbers">Numbers</string>
+
+    <string name="feature_about_vehicle_lock_type">Type</string>
+    <string name="feature_about_vehicle_lock_code">Lock code</string>
+
+    <string name="feature_about_vehicle_battery_actual_charge">Actual charge</string>
+    <string name="feature_about_vehicle_battery_client_charge">Client (virtual)</string>
+    <string name="feature_about_vehicle_battery_battery_type">Battery Type</string>
+    <string name="feature_about_vehicle_battery_serial">Serial</string>
+
+    <string name="feature_about_vehicle_tracker_update">Update</string>
+    <string name="feature_about_vehicle_tracker_main_tracker">Main tracker</string>
+    <string name="feature_about_vehicle_tracker_coordinates">Coordinates</string>
+    <string name="feature_about_vehicle_tracker_charge">Charge</string>
+    <string name="feature_about_vehicle_tracker_imei">IMEI</string>
+    <string name="feature_about_vehicle_tracker_identifier">Identifier</string>
+    <string name="feature_about_vehicle_tracker_driver">Driver</string>
+    <string name="feature_about_vehicle_tracker_iot">IoT</string>
+    <string name="feature_about_vehicle_tracker_controller">Controller</string>
+    <string name="feature_about_vehicle_tracker_display">Display</string>
+    <string name="feature_about_vehicle_tracker_bsm">Bms</string>
+
+    <string name="feature_about_vehicle_gps_update">Update</string>
+
+    <string name="feature_about_vehicle_sim_card_status">SIM card status</string>
+    <string name="feature_about_vehicle_sim_operator">Operator</string>
+    <string name="feature_about_vehicle_sim_number">Number</string>
+    <string name="feature_about_vehicle_sim_imsi">IMSI</string>
+    <string name="feature_about_vehicle_sim_iccid">ICCID</string>
+    <string name="feature_about_vehicle_sim_rate">Rate</string>
+
+    <string name="feature_photo_gallery_counter">%s out of %s</string>
+
+    <!-- Wizard !-->
+    <string name="wizard_on_the_move">On the move</string>
+    <string name="wizard_remove_access">Remove access</string>
+    <string name="wizard_on_the_move_button">On the move</string>
+    <string name="wizard_status_change">The status of the vehicle\nand its state will change:
+    </string>
+    <string name="wizard_will_be_new_status">Will be a new status</string>
+    <string name="wizard_scooter_turn_on">The vehicle will turn on</string>
+    <string name="wizard_scooter_turn_off">The vehicle will turn off</string>
+    <string name="wizard_wheels_unlocked">The wheels are unlocked</string>
+    <string name="wizard_wheels_locked">The wheels are locked</string>
+    <string name="wizard_service_mode_turn_on">Service mode will turn on</string>
+    <string name="wizard_service_mode_turn_off">Service mode will be disabled</string>
+    <string name="wizard_alarm_turn_on">The alarm will turn on</string>
+    <string name="wizard_alarm_turn_off">The alarm will turn off</string>
+    <string name="wizard_super">Super!</string>
+    <string name="wizard_failed_load_data">Failed to load data\nto change status</string>
+
+    <!--  Wizard Repair  -->
+    <string name="wizard_repair_require_repair">Repair required</string>
+    <string name="wizard_repair_require_repair_description">The specified types of breakdowns will be\nadded to the Tasks section</string>
+    <string name="wizard_repair_set_breakdown">Specify the breakdown</string>
+    <string name="wizard_repair_breakdown_brakes">Brakes</string>
+    <string name="wizard_repair_breakdown_fender">Fender</string>
+    <string name="wizard_repair_breakdown_steering_wheel">Steering wheel</string>
+    <string name="wizard_repair_breakdown_mo_signal">No signal</string>
+    <string name="wizard_repair_breakdown_wheel">Wheel</string>
+    <string name="wizard_repair_breakdown_does_not_go">Doesn\'t go</string>
+    <string name="wizard_repair_breakdown_dock">Dock</string>
+    <string name="wizard_repair_breakdown_motor_wheel">Motor-wheel</string>
+    <string name="wizard_repair_breakdown_other">Other</string>
+    <string name="wizard_repair_photo_title">Damage photo</string>
+    <string name="wizard_repair_comment_title">Description</string>
+    <string name="wizard_repair_comment_placeholder">For example, the scooter is dirty</string>
+    <string name="wizard_repair_comment_error">This field is required</string>
+    <string name="wizard_repair_next">Next</string>
+    <string name="wizard_repair_info_description">The transport\'s status\nand state will be changed</string>
+    <string name="wizard_repair_info_status_1_title">Repair required</string>
+    <string name="wizard_repair_info_status_1_description">Will be a new status</string>
+    <string name="wizard_repair_info_status_2_title">A new task will be created</string>
+    <string name="wizard_repair_info_status_2_description">In the Tasks section of the vehicle card</string>
+    <string name="wizard_repair_info_status_3_title">Service mode will turn off</string>
+    <string name="wizard_repair_info_status_3_description">The alarm will turn on</string>
+    <string name="wizard_repair_info_status_in_repair">In Repair required</string>
+    <string name="wizard_repair_change_status_exception">Something went wrong, check the transport statuses</string>
+    <string name="wizard_repair_create_task_exception">The task was not created, please create it manually</string>
+    <string name="wizard_repair_breakdowns">Breakdowns: %s</string>
+    <string name="wizard_repair_super">Super!</string>
+
+    <!-- RemoteControl !-->
+    <string name="feature_vehicle_remote_title">Remote control</string>
+    <string name="feature_vehicle_remote_control_lock">Lock</string>
+    <string name="feature_vehicle_remote_control_no_lock">No lock</string>
+    <string name="feature_vehicle_remote_control_open_lock">Open</string>
+    <string name="feature_vehicle_remote_control_close_lock">Close</string>
+    <string name="feature_vehicle_remote_control_no_lock_type">—</string>
+    <string name="feature_vehicle_remote_control_info_gps">GPS</string>
+    <string name="feature_vehicle_remote_control_no_gps">No GPS</string>
+    <string name="feature_vehicle_remote_control_signal_exists">Online</string>
+    <string name="feature_vehicle_remote_control_signal_does_not_exists">Offline</string>
+    <string name="feature_vehicle_remote_control_service_mode">Service mode</string>
+    <string name="feature_vehicle_remote_control_power_on">Power on</string>
+    <string name="feature_vehicle_remote_control_power_off">Power off</string>
+    <string name="feature_vehicle_remote_control_close_deck">Close deck</string>
+    <string name="feature_vehicle_remote_control_replace_battery">Replace</string>
+    <string name="feature_vehicle_remote_control_battery_header">Battery</string>
+    <string name="feature_vehicle_remote_control_replace_track_header">Tracker</string>
+    <string name="feature_vehicle_remote_control_replace_track">Replace</string>
+    <string name="feature_vehicle_remote_control_coordinates_copied">Coordinates copied</string>
+    <string name="feature_vehicle_remote_control_check_deck_access_error">Deck status transmission
+        error
+    </string>
+    <string name="feature_vehicle_remote_control_service_status_changed_error">Failed to load
+        service mode status data
+    </string>
+    <string name="feature_vehicle_remote_control_power_status_changed_error">Failed to load
+        transport blocking data
+    </string>
+    <string name="feature_vehicle_remote_control_open_lock_error">Failed to load lock status data
+    </string>
+    <string name="feature_vehicle_remote_control_close_deck_error">Deck status transmission error
+    </string>
+    <string name="feature_vehicle_remote_control_open_deck_error">Deck status transmission error
+    </string>
+    <string name="feature_vehicle_remote_control_end_rent">End rent</string>
+    <string name="feature_vehicle_remote_controls_rent_will_be_ended">The rent will be completed</string>
+    <string name="feature_vehicle_remote_controls_rent_error">Rent termination error</string>
+
+    <!-- Feature Vehicle Removing From Service Center -->
+    <string name="feature_vehicle_removing_from_service_center_service_mode">Service mode</string>
+    <string name="feature_vehicle_removing_from_service_center_turn_on">Enabling transport</string>
+    <string name="feature_vehicle_removing_from_service_center_coordinates_linked">The coordinates
+        of the phone will be linked
+    </string>
+    <string name="feature_vehicle_removing_from_service_center_gps_update">GPS coordinates will be
+        updated
+    </string>
+    <string name="feature_vehicle_removing_from_service_center_service_deleted_all">It will be
+        deleted from everyone
+    </string>
+    <string name="feature_vehicle_removing_from_service_center_flag_removed">The SC or PW flag will
+        be removed
+    </string>
+    <string name="feature_vehicle_removing_from_service_center_to_fields">Give it to the fields
+    </string>
+    <string name="feature_vehicle_removing_from_service_center_subtitle_step_one">Select a vendor
+    </string>
+    <string name="feature_vehicle_removing_from_service_center_subtitle_step_two">The status of the
+        scooter\nand its condition will change
+    </string>
+    <string name="feature_vehicle_removing_from_service_center_to_share">To share</string>
+    <string name="feature_vehicle_removing_from_service_center_given_to_fields">Given to the
+        fields
+    </string>
+    <string name="feature_vehicle_removing_from_service_center_given_ready_for_operation">Ready for
+        operation
+    </string>
+    <string name="feature_vehicle_removing_from_service_center_will_be_new_status">It will be a new
+        status
+    </string>
+    <string name="feature_vehicle_removing_from_service_center_count_vehicle">%s Vehicle</string>
+    <string name="feature_vehicle_removing_from_service_center_button_step_one">Next</string>
+    <string name="feature_vehicle_removing_from_service_center_button_step_two">Give it to the
+        fields
+    </string>
+    <string name="feature_vehicle_removing_from_service_center_search_title">Vendors</string>
+    <string name="feature_vehicle_removing_from_service_center_search_place_holder">Choose vendor
+    </string>
+
+    <!-- Vehicle Take In Service Center -->
+    <string name="feature_vehicle_take_in_sc_header">Take in SC or PC\n%s Vehicles</string>
+    <string name="feature_vehicle_take_in_sc_chose_service_center">Select service center</string>
+    <string name="feature_vehicle_take_in_sc_chose_division">Select division</string>
+    <string name="feature_vehicle_take_in_sc_chose_vendor">Select vendor</string>
+    <string name="feature_vehicle_take_in_sc_status_will_be_changed">The status of the scooter and
+        its condition changes
+    </string>
+    <string name="feature_vehicle_take_in_sc_next">Next</string>
+    <string name="feature_vehicle_take_in_sc_take_to_sc">Accept</string>
+    <string name="feature_vehicle_take_in_sc_add_attribute">Attribute %s</string>
+    <string name="feature_vehicle_take_in_sc_add_attribute_description">Will be added to each
+        vehicle
+    </string>
+    <string name="feature_vehicle_take_in_sc_new_status">Waiting for repair service center</string>
+    <string name="feature_vehicle_take_in_sc_new_status_description">Will be new status</string>
+    <string name="feature_vehicle_take_in_sc_link_coordinate">Phone coordinates will be linked
+    </string>
+    <string name="feature_vehicle_take_in_sc_link_coordinate_description">GPS coordinates will be
+        updated
+    </string>
+    <string name="feature_vehicle_take_in_sc_service_mode">Service mode</string>
+    <string name="feature_vehicle_take_in_sc_enabling_transport">Enabling transport</string>
+    <string name="feature_vehicle_take_in_sc_success_accepting">Accepted</string>
+    <string name="feature_vehicle_take_in_sc_success_vehicle_numbers">%s Vehicles</string>
+    <string name="feature_vehicle_take_in_sc_share">Share</string>
+    <string name="feature_vehicle_take_in_sc_super">Super</string>
+    <string name="feature_vehicle_take_in_sc_accept_to_sc_header">Service center name</string>
+    <string name="feature_vehicle_take_in_sc_accept_to_division_header">Division name</string>
+    <string name="feature_vehicle_take_in_sc_accept_to_vendor_header">Vendor name</string>
+    <string name="feature_vehicle_take_in_sc_accept_to_sc_header">Service center name</string>
+    <string name="feature_vehicle_take_in_sc_accept_to_division_header">Division name</string>
+    <string name="feature_vehicle_take_in_sc_accept_to_vendor_header">Vendor name</string>
+    <string name="feature_vehicle_take_in_sc_error_no_vendor">The required vendor is missing.\nTo connect, contact support.</string>
+    <string name="feature_vehicle_take_in_sc_error_no_claim">There is no access to edit sc and division.\nContact support.</string>
+
+    <!--  Battery Form Factor  -->
+    <string name="feature_battery_form_factor_reset">Reset</string>
+    <string name="feature_battery_form_factor_title">Filters</string>
+    <string name="feature_battery_form_factor_battery_types">Battery types</string>
+    <string name="feature_battery_form_factor_task_priority">Priority</string>
+    <string name="feature_battery_form_factor_eleven_scooters">Eleven</string>
+    <string name="feature_battery_form_factor_ninebot_scooters_and_others">Ninebot</string>
+    <string name="feature_battery_form_factor_ninebot_bicycles_b100">Ninebot B100</string>
+    <string name="feature_battery_form_factor_task_priority_critical">Discharged</string>
+    <string name="feature_battery_form_factor_task_priority_burning">Low charge</string>
+    <string name="feature_battery_form_factor_task_priority_high">Draining</string>
+    <string name="feature_battery_form_factor_task_priority_normal">Available</string>
+    <string name="feature_battery_form_factor_show_tasks">Show %d tasks</string>
+    <string name="feature_battery_form_factor_no_tasks">There are no such tasks</string>
+
+    <!-- Logistics management !-->
+    <string name="feature_logistics_management_dialog_radius_title_sc">You need to be in the service center area</string>
+    <string name="feature_logistics_management_dialog_radius_title_sw">You need to be in the storage warehouse area</string>
+    <string name="feature_logistics_management_dialog_radius_title_cc">You need to be in the charging center area</string>
+    <string name="feature_logistics_management_dialog_radius_body">According to GPS data, you are not there.</string>
+    <string name="feature_logistics_management_dialog_radius_button">OK</string>
+    <string name="feature_logistics_management_dialog_radius_button_force">"Unload anyway"</string>
+    <string name="feature_logistics_management_filters_title">Filters</string>
+    <string name="feature_logistics_management_filters_task_type">Task type</string>
+    <string name="feature_logistics_management_filters_task_type_dropoff">Drop off</string>
+    <string name="feature_logistics_management_filters_task_type_move_v2">To SC</string>
+    <string name="feature_logistics_management_filters_task_type_pickup_v2">Move</string>
+    <string name="feature_logistics_management_filters_reset">Reset</string>
+    <string name="feature_logistics_management_filters_only_in_booking">Only in booking</string>
+    <string name="feature_logistics_management_filters_priority">Priority</string>
+    <string name="feature_logistics_management_filters_priority_default">Default</string>
+    <string name="feature_logistics_management_filters_priority_asap">ASAP</string>
+    <string name="feature_logistics_management_filters_target_type">Target type</string>
+    <string name="feature_logistics_management_filters_target_type_scooter">Scooter</string>
+    <string name="feature_logistics_management_filters_target_type_bike">Bike</string>
+    <string name="feature_logistics_management_filters_model">Model</string>
+    <string name="feature_logistics_management_filters_model_not_choosen">Not choosen</string>
+    <string name="feature_logistics_management_filters_button_empty">No such tasks</string>
+    <string name="feature_logistics_management_inventory_title">Inventory</string>
+    <string name="feature_logistics_management_inventory_empty_title">There is nothing in inventory</string>
+    <string name="feature_logistics_management_inventory_empty_body">There will be a transport that you will pick up according to tasks</string>
+    <string name="feature_logistics_management_inventory_pickup_title">Put it in the parking</string>
+    <string name="feature_logistics_management_inventory_move_title">Take to the service</string>
+    <string name="feature_logistics_management_inventory_bikes">Bikes</string>
+    <string name="feature_logistics_management_inventory_scooters">Scooters</string>
+    <string name="feature_logistics_management_map_task_sheet_move_title">Move to SC</string>
+    <string name="feature_logistics_management_map_task_sheet_pickup_title">Take it to the parking</string>
+    <string name="feature_logistics_management_map_task_sheet_task_overdue">Task is overdue</string>
+    <string name="feature_logistics_management_map_task_sheet_scan_button">Scan</string>
+    <string name="feature_logistics_management_map_task_sheet_destination">Destination</string>
+    <string name="feature_logistics_management_map_task_sheet_signal">Signal</string>
+    <string name="feature_logistics_management_map_task_sheet_problem">Problem</string>
+    <string name="feature_logistics_management_map_task_sheet_to_sc_scanner">To SC</string>
+    <string name="feature_logistics_management_map_task_sheet_to_parking_scanner">To Parking</string>
+    <string name="feature_logistics_management_map_tech_station_sheet_service_center">Service center</string>
+    <string name="feature_logistics_management_map_tech_station_sheet_charge_center">Charge center</string>
+    <string name="feature_logistics_management_map_tech_station_sheet_storage_warehouse">Storage center</string>
+    <string name="feature_logistics_management_map_tech_station_sheet_button">Start vehicle unloading</string>
+    <string name="feature_logistics_management_map_tech_station_sheet_destination">Destination</string>
+    <string name="feature_logistics_management_add_target_sheet_to_cs">To SC</string>
+    <string name="feature_logistics_management_add_target_sheet_to_parking">To parking</string>
+    <string name="feature_logistics_management_add_target_sheet_button">To the unloading list</string>
+    <string name="feature_logistics_management_add_target_dialog_title">Unload vehicle?</string>
+    <string name="feature_logistics_management_add_target_dialog_body">This vehicle does not require servicing at a service center. He needs to be taken to the parking lot.</string>
+    <string name="feature_logistics_management_add_target_dialog_button_ok">OK</string>
+    <string name="feature_logistics_management_add_target_dialog_button_cancel">Cancel</string>
+    <string name="feature_logistics_management_drop_off_scanner_inventory_error">Inventory request error</string>
+    <string name="feature_logistics_management_drop_off_scanner_already_booked">%s already booked</string>
+    <string name="feature_logistics_management_drop_off_scanner_empty_title">Scan the transport you\nwant to unload</string>
+    <string name="feature_logistics_management_drop_off_scanner_target_booked">%s booked</string>
+    <string name="feature_logistics_management_drop_off_scanner_unknown_qr_format">Unknown QR format</string>
+    <string name="feature_logistics_management_drop_off_scanner_button">Unload %s</string>
+    <string name="feature_logistics_management_drop_off_scanner_tasks_not_exists_for_target">Tasks for %s not found in inventory</string>
+    <string name="feature_logistics_management_drop_off_title">Unload %s vehicles into the unloading area</string>
+    <string name="feature_logistics_management_drop_off_body">Carefully display the vehicle and take a photo</string>
+    <string name="feature_logistics_management_drop_off_add_vehicles_title">Add another vehicle</string>
+    <string name="feature_logistics_management_drop_off_target_body">Unload to SC</string>
+    <string name="feature_logistics_management_drop_off_photo_button">Take a photo of transport</string>
+    <string name="feature_logistics_management_drop_off_dialog_cancel">Cancel</string>
+    <string name="feature_logistics_management_drop_off_dialog_ok">OK</string>
+    <string name="feature_logistics_management_drop_off_dialog_title">Remove %s?</string>
+    <string name="feature_logistics_management_drop_off_dialog_clear_all_cancel">Cancel</string>
+    <string name="feature_logistics_management_drop_off_dialog_clear_all_ok">OK</string>
+    <string name="feature_logistics_management_drop_off_dialog_clear_all_title">Clear list?</string>
+    <string name="feature_logistics_management_drop_off_dialog_clear_all_body">You will have to scan the vehicles again</string>
+    <string name="feature_logistics_management_drop_off_service_center_title">Service center</string>
+    <string name="feature_logistics_management_drop_off_charging_center_title">Charging center</string>
+    <string name="feature_logistics_management_drop_off_storage_warehouse_title">Storage warehouse</string>
+    <string name="feature_logistics_management_drop_off_tasks_completed_title">Tasks completed!</string>
+    <string name="feature_logistics_management_drop_off_completed_targets">Completed %s targets</string>
+    <string name="feature_logistics_management_drop_off_target_completed_to_sc_body">Uploaded to SC</string>
+    <string name="feature_logistics_management_drop_off_target_completed_to_parking_body">Uploaded to parking</string>
+    <string name="feature_logistics_management_drop_off_return_button">Return to map</string>
+    <string name="feature_logistics_management_drop_off_loading_title">Wait</string>
+    <string name="feature_logistics_management_drop_off_loading_body">Changing of statuses, translating of transport for repair</string>
+
+    <!-- Inventory !-->
+    <string name="feature_battery_maps_cluster_inventory_title">Inventory</string>
+    <string name="feature_battery_maps_cluster_inventory_add_to_inventory">Add</string>
+    <string name="feature_battery_maps_cluster_inventory_limit_exceeded_hint">The limit on new batteries is no more than %s pieces</string>
+    <string name="feature_battery_maps_cluster_inventory_for_scooter">For scooters</string>
+    <string name="feature_battery_maps_cluster_inventory_for_bikes">For bikes</string>
+    <string name="feature_battery_maps_cluster_inventory_empty">There is nothing in inventory yet</string>
+    <string name="feature_battery_maps_cluster_inventory_new_batteries">New batteries</string>
+    <string name="feature_battery_maps_cluster_inventory_error_header_message">Error 500</string>
+    <string name="feature_battery_maps_cluster_inventory_error_message">Problems on the server.\nWe are already fixing it, it will work soon!</string>
+    <string name="feature_battery_maps_cluster_inventory_go_back">Go back</string>
+
+    <!-- Inventory Replenishment!-->
+    <string name="feature_battery_maps_cluster_inventory_replenishment_title_add_to_inventory">Add to inventory</string>
+    <string name="feature_battery_maps_cluster_inventory_replenishment_add">Add</string>
+    <string name="feature_battery_maps_cluster_inventory_replenishment_add_batteries">Add batteries</string>
+    <string name="feature_battery_maps_cluster_inventory_replenishment_description">Enter the number of batteries %s\nhow much do you want to take</string>
+    <string name="feature_battery_maps_cluster_inventory_replenishment_add_batteries_hint">You can add %s. The total limit is %s pieces.</string>
+    <string name="feature_battery_maps_cluster_inventory_replenishment_success_description">%s type\n&#171;%s&#187; added</string>
+    <string name="feature_battery_maps_cluster_inventory_replenishment_to_inventory">To the inventory</string>
+    <string name="feature_battery_maps_cluster_inventory_replenishment_to_map">To the map</string>
+    <string name="feature_battery_maps_cluster_inventory_replenishment_to_scan">To the scan</string>
+
+</resources>

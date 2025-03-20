@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dgis_black_white">#ffffffff</color>
+    <color name="dgis_blue">#ff70aee0</color>
+    <color name="dgis_card">#ff262626</color>
+    <color name="dgis_card_bullet_separator">#ff808080</color>
+    <color name="dgis_card_elevated">#ff333333</color>
+    <color name="dgis_card_icon">#ffffffff</color>
+    <color name="dgis_card_icon_dimmed">#ff808080</color>
+    <color name="dgis_card_overlay">#19ffffff</color>
+    <color name="dgis_card_pressed">#ff3c3c3c</color>
+    <color name="dgis_card_text">#ffffffff</color>
+    <color name="dgis_card_text_accented">#ff70aee0</color>
+    <color name="dgis_indoor_mark">#ff057ddf</color>
+    <color name="dgis_map_control_background_normal">#ff121212</color>
+    <color name="dgis_map_control_background_pressed">#ff3c3c3c</color>
+    <color name="dgis_map_control_background_transparent">#00121212</color>
+    <color name="dgis_map_control_foreground_disabled">#ff808080</color>
+    <color name="dgis_map_control_foreground_normal">#ffcccccc</color>
+    <color name="dgis_map_control_overlay">#3370aee0</color>
+    <color name="dgis_secondary">#ff70aee0</color>
+</resources>

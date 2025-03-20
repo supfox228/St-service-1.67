@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <plurals name="feature_battery_inventory_replenishment_batteries_hint">
+    <item quantity="one">"%d батарею"</item>
+    <item quantity="few">"%d батареи"</item>
+    <item quantity="many">"%d батарей"</item>
+  </plurals>
+  <plurals name="feature_battery_inventory_replenishment_batteries_total">
+    <item quantity="one">"%d батарея"</item>
+    <item quantity="few">"%d батареи"</item>
+    <item quantity="many">"%d батарей"</item>
+  </plurals>
+  <plurals name="feature_battery_maps_tasks_count">
+    <item quantity="one">"%d задача"</item>
+    <item quantity="few">"%d задачи"</item>
+    <item quantity="many">"%d задач"</item>
+  </plurals>
+  <plurals name="feature_create_task_filter_main_plurals_tech_zone">
+    <item quantity="one">"%1$d зона ·"</item>
+    <item quantity="few">"%1$d зоны ·"</item>
+    <item quantity="many">"%1$d зон ·"</item>
+  </plurals>
+  <plurals name="feature_home_period_calendar_shifts">
+    <item quantity="one">"%d слот"</item>
+    <item quantity="few">"%d слота"</item>
+    <item quantity="many">"%d слотов"</item>
+  </plurals>
+  <plurals name="feature_inventory_batteries_count">
+    <item quantity="one">"%d штуку"</item>
+    <item quantity="few">"%d штуки"</item>
+    <item quantity="many">"%d штук"</item>
+  </plurals>
+  <plurals name="feature_logistics_management_bikes">
+    <item quantity="one">"%d велосипед"</item>
+    <item quantity="few">"%d велосипеда"</item>
+    <item quantity="many">"%d велосипедов"</item>
+  </plurals>
+  <plurals name="feature_logistics_management_filters_button_default">
+    <item quantity="one">"Показать %d задачу"</item>
+    <item quantity="few">"Показать %d задачи"</item>
+    <item quantity="many">"Показать %d задач"</item>
+  </plurals>
+  <plurals name="feature_logistics_management_scooters">
+    <item quantity="one">"%d самокат"</item>
+    <item quantity="few">"%d самоката"</item>
+    <item quantity="many">"%d самокатов"</item>
+  </plurals>
+  <plurals name="feature_my_balance_replacements">
+    <item quantity="one">"%d замена"</item>
+    <item quantity="few">"%d замены"</item>
+    <item quantity="many">"%d замен"</item>
+  </plurals>
+  <plurals name="feature_report_history_header_total">
+    <item quantity="one">"Всего %d слот"</item>
+    <item quantity="few">"Всего %d слота"</item>
+    <item quantity="many">"Всего %d слотов"</item>
+  </plurals>
+  <plurals name="feature_vehicle_days">
+    <item quantity="one">"%d день"</item>
+    <item quantity="few">"%d дня"</item>
+    <item quantity="many">"%d дней"</item>
+  </plurals>
+  <plurals name="feature_vehicle_hours">
+    <item quantity="one">"%d час"</item>
+    <item quantity="few">"%d часа"</item>
+    <item quantity="many">"%d часов"</item>
+  </plurals>
+  <plurals name="feature_vehicle_minutes">
+    <item quantity="one">"%d минута"</item>
+    <item quantity="few">"%d минуты"</item>
+    <item quantity="many">"%d минут"</item>
+  </plurals>
+  <plurals name="feature_vehicle_seconds">
+    <item quantity="one">"%d секунда"</item>
+    <item quantity="few">"%d секунды"</item>
+    <item quantity="many">"%d секунд"</item>
+  </plurals>
+</resources>

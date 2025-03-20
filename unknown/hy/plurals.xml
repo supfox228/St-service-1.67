@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <plurals name="feature_battery_inventory_replenishment_batteries_total">
+    <item quantity="one">"%d մարտկոց"</item>
+    <item quantity="other">"%d մարտկոցներ"</item>
+  </plurals>
+  <plurals name="feature_battery_maps_cluster_tasks_count">
+    <item quantity="one">"Ընդամենը%d առաջադրանք"</item>
+    <item quantity="other">"Ընդամենը%d առաջադրանքներ"</item>
+  </plurals>
+  <plurals name="feature_battery_maps_tasks_count">
+    <item quantity="one">"%dառաջադրանք"</item>
+    <item quantity="other">"%dառաջադրանքներ"</item>
+  </plurals>
+  <plurals name="feature_create_task_filter_main_plurals_tech_zone">
+    <item quantity="one">"%1$dգոտի ·"</item>
+    <item quantity="other">"%1$dգոտիներ ·"</item>
+  </plurals>
+  <plurals name="feature_home_period_calendar_shifts">
+    <item quantity="one">"%dհերթափոխ"</item>
+    <item quantity="other">"%dտեղաշարժեր"</item>
+  </plurals>
+  <plurals name="feature_logistics_management_filters_button_default">
+    <item quantity="one">"Ցույց տալ%d առաջադրանք"</item>
+    <item quantity="other">"Ցույց տալ%d առաջադրանքներ"</item>
+  </plurals>
+  <plurals name="feature_my_balance_replacements">
+    <item quantity="one">"%dփոխարինում"</item>
+    <item quantity="other">"%dփոխարինումներ"</item>
+  </plurals>
+  <plurals name="feature_report_history_header_total">
+    <item quantity="one">"Ընդամենը%d հերթափոխ"</item>
+    <item quantity="other">"Ընդամենը%d տեղաշարժեր"</item>
+  </plurals>
+  <plurals name="feature_vehicle_days">
+    <item quantity="one">"%dօր"</item>
+    <item quantity="other">"%dօրեր"</item>
+  </plurals>
+  <plurals name="feature_vehicle_hours">
+    <item quantity="one">"%dժամ"</item>
+    <item quantity="other">"%dժամեր"</item>
+  </plurals>
+  <plurals name="feature_vehicle_minutes">
+    <item quantity="one">"%dրոպե"</item>
+    <item quantity="other">"%dրոպե"</item>
+  </plurals>
+  <plurals name="feature_vehicle_seconds">
+    <item quantity="one">"%dերկրորդ"</item>
+    <item quantity="other">"%dվայրկյան"</item>
+  </plurals>
+</resources>
